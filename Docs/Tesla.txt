@@ -1,0 +1,1186 @@
+
+Tesla, Inc.
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+This article is about the car and energy company. For other uses, see Tesla.
+"Tesla Motors" redirects here. For Nikola Tesla's motors, see induction motor and AC motor.
+Tesla, Inc.
+Tesla Motors.svg
+Tesla Visit 3 (9267529364).jpg
+Tesla's headquarters in Palo Alto
+Formerly
+Tesla Motors, Inc. (2003â€“2017)
+Type
+Public
+Traded as	
+NASDAQ: TSLA
+NASDAQ-100 component
+Russell 1000 component
+ISIN	US88160R1014
+Industry	
+Automotive
+Energy storage
+Founded	July 1, 2003; 16 years ago[1]
+Founders	
+Martin Eberhard
+Marc Tarpenning
+Elon Musk[a]
+J. B. Straubel[a]
+Ian Wright[a]
+Headquarters	Palo Alto, California, U.S.
+Area served
+Worldwide
+Key people
+Robyn Denholm (Chairman)
+Elon Musk (CEO)
+Drew Baglino (CTO)
+Zach Kirkhorn (CFO)
+Products	
+Electric vehicles
+Tesla Energy
+Production output
+Increase 367,500 vehicles (2019)
+Revenue	Increase US$21.46 billion (2018)
+Operating income
+Increase âˆ’US$0.39 billion (2018)
+Net income
+Increase âˆ’US$0.98 billion (2018)
+Total assets	Increase US$29.74 billion (2018)
+Total equity	Increase US$4.92 billion (2018)
+Owner	Elon Musk (21.7%)[3]
+Number of employees
+45,000[4] (2018)
+Subsidiaries	
+SolarCity
+Tesla Grohmann Automation
+Maxwell Technologies
+Website	Tesla.com
+Footnotes / references
+[5][6][7]
+
+Tesla's financial performance
+
+Tesla's paid-in capital makes up the accumulated deficit to maintain its operation
+Tesla, Inc. (formerly Tesla Motors, Inc.), is an American automotive and energy company based in Palo Alto, California.[8] The company specializes in electric car manufacturing and, through its SolarCity subsidiary, solar panel manufacturing.[9] It operates multiple production and assembly plants, such as Gigafactory 1[10] near Reno, Nevada, and its main vehicle manufacturing facility at Tesla Factory[11] in Fremont, California. As of 2019, Tesla sells Model S,[12] Model X,[13] and Model 3 cars.[14] It is accepting reservations for the Model Y,[15] Roadster (2020),[16], Cybertruck,[17] and Semi[18] vehicles. Tesla also sells Powerwall,[19] Powerpack,[20] and Megapack[21] batteries, solar panels,[22] solar roof tiles,[23] and some related products.
+
+Tesla was founded in July 2003, by engineers Martin Eberhard and Marc Tarpenning, under the name Tesla Motors. The company's name is a tribute to engineer Nikola Tesla. In early Series A funding, Tesla Motors was joined by Elon Musk, J. B. Straubel and Ian Wright, all of whom are retroactively allowed to call themselves co-founders of the company. Musk, who formerly served as chairman and is the current chief executive officer, said that he envisioned Tesla Motors as a technology company and independent automaker, aimed at eventually offering electric cars at prices affordable to the average consumer. Tesla Motors shortened its name to Tesla in February 2017.
+
+After 10 years in the market, Tesla ranked as the world's best selling plug-in passenger car manufacturer in 2018, both as a brand and by automotive group, with 245,240 units delivered and a market share of 12% of the plug-in segment sales.[24][25][26] Tesla vehicle sales in the U.S. increased by 280% from 48,000 in 2017 to 182,400 in 2018,[27] and globally were up by 138% from 2017.[28] Tesla has never had a profitable year.[29] However, it has had several profitable quarters starting from the first quarter of 2013 when it posted an $11 million profit.
+
+
+Contents
+1	History
+2	Strategy
+3	Sales
+3.1	Production and sales by quarter
+3.2	US dealership disputes
+3.3	Used vehicles
+4	Technology
+4.1	Batteries
+4.2	Motors
+4.3	Autopilot
+4.4	Glass
+5	Vehicle models
+5.1	Production
+5.1.1	Model S
+5.1.2	Model X
+5.1.3	Model 3
+5.2	Unveiled
+5.2.1	2020 Roadster
+5.2.2	Tesla Semi
+5.2.3	Model Y
+5.2.4	Cybertruck
+5.3	Discontinued
+5.3.1	Roadster (2008)
+5.4	Other concepts
+6	Battery products
+7	Charging
+7.1	Supercharger network
+7.2	Destination charging location network
+8	Facilities
+8.1	United States
+8.1.1	Factories
+8.2	Canada
+8.3	Europe
+8.4	Asia
+8.4.1	Gigafactory 3
+8.5	Middle East
+8.6	Australia
+9	Partners
+9.1	Daimler AG
+9.1.1	Mercedes-Benz A-Class
+9.1.2	Mercedes-Benz B-Class ED
+9.1.3	Smart cars
+9.2	Toyota
+9.2.1	Toyota RAV4 EV
+9.3	Freightliner
+9.4	Panasonic
+9.5	Airbnb
+9.6	Liberty Mutual
+10	Lawsuits and controversies
+10.1	Securities Litigation Relating to SolarCityâ€™s Financial Statements and Guidance
+10.2	Securities Litigation Relating to the SolarCity Acquisition
+10.3	Securities Litigation Relating to Production of Model 3 Vehicles
+10.4	Litigation Relating to 2018 CEO Performance Award
+10.5	Securities Litigation related to Potential Going Private Transaction
+10.6	Settlement with SEC related to Potential Going Private Transaction
+11	Product issues
+11.1	Recalls
+11.2	Crashes and fires
+11.3	Maintenance costs, crash rates, and insurance costs
+11.4	Delays
+11.5	Hacking
+11.6	Servicing
+12	Lobbying activity
+13	Board of directors
+14	Acquisitions
+15	Philanthropy
+16	See also
+17	References
+18	Further reading
+19	External links
+History
+Main article: History of Tesla, Inc.
+Tesla Motors was incorporated in July 2003 by Martin Eberhard and Marc Tarpenning who financed the company until the Series A round of funding.[30] The founders were influenced to start the company after GM recalled all its EV1 electric cars in 2003 and then destroyed them.[31] Elon Musk led the Series A round of investment in February 2004, joining Tesla's board of directors as its chairman. Tesla's primary goal was to commercialize electric vehicles, starting with a premium sports car aimed at early adopters and then moving into more mainstream vehicles, including sedans and affordable compacts.[32]
+
+Musk took an active role within the company and oversaw Roadster product design at a detailed level.[33] In addition to his daily operational roles, Musk was the controlling investor in Tesla from the first financing round, funding $6.5M of the Series A capital investment round of US$7.5 million with personal funds.[citation needed] Musk later led Tesla Motors' Series B, $9M of US$13 million, and co-led the third, $12M of US$40 million round in May 2006. Tesla's third round included investment from prominent entrepreneurs including Google co-founders Sergey Brin & Larry Page, former eBay President Jeff Skoll, Hyatt heir Nick Pritzker and added the VC firms Draper Fisher Jurvetson, Capricorn Management and The Bay Area Equity Fund managed by JPMorgan Chase.[34] The fourth round in May 2007 added another US$45 million and brought the total investments to over US$105 million through private financing.[35]
+
+Tesla has been reporting net losses most quarters for many years. In 3Q2019, Tesla surprised analysts, who had been anticipating a quarterly loss of approximately 40 cents per share, with adjusted earnings of US$1.61 per share, on total quarterly revenue of US$6.3 billion.[36]
+
+Strategy
+
+Tesla strategy of starting with low-volume high-priced cars and evolving to higher-volume lower-priced cars.[32]
+Tesla's business strategy is to emulate typical technological-product life cycles and initially target affluent buyers, and then move into larger markets at lower price points.[32][37] The battery and electric drivetrain technology for each model would be developed and partially paid for through the sales of earlier models.[32][38] The Roadster was low-volume and priced at US$109,000. Model S and Model X targeted the broader luxury market. Model 3 and the Model Y is aimed at a higher-volume segment.[39][40] This business strategy is common in the technology industry.[41] According to a Musk blog post, "New technology in any field takes a few versions to optimize before reaching the mass market, and in this case it is competing with 150 years and trillions of dollars spent on gasoline cars."[42]
+
+
+Robotic manufacturing of the Model S at the Tesla Factory in Fremont, California
+Tesla's production strategy includes a high degree of vertical integration[43] (80% in 2016[44]), which includes component production and proprietary charging infrastructure. The company operates large factories to capture economies of scale. Tesla builds electric powertrain components for vehicles from other automakers, including the Smart ED2 ForTwo electric drive (the lowest-priced car from Daimler AG), the Toyota RAV4 EV, and Freightliner's Custom Chassis Electric Van. Vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to suppliers,[45] and focus on engine manufacturing and final assembly.[46][47]
+
+
+The Tesla Patent Wall at its headquarters was removed after the company announced its patents are part of the open source movement.[48]
+Tesla's sales strategy is to sell its vehicles online and in company-owned showrooms rather than through a conventional dealer network. Moving towards an e-commerce strategy, customers are able to customize and order their vehicles online.[49][50]
+
+Tesla's technology strategy focuses on pure-electric propulsion technology, and transferring other approaches from the technology industry to transportation, such as online software updates.[51] Tesla allows its technology patents to be used by anyone in good faith.[52] Licensing agreements include provisions whereby the recipient agrees not to file patent suits against Tesla, or to copy its designs directly.[53] Tesla retained control of its other intellectual property, such as trademarks and trade secrets to prevent direct copying of its technology.[54]
+
+Tesla Human Resources VP Arnnon Geshuri committed to bringing manufacturing jobs "back to California".[55][56] In 2015, Geshuri led a hiring surge about which he said: "In the last 14 months we've had 1.5 million applications from around the world. People want to work here."[57] Geshuri emphasizes hiring veterans, saying "Veterans are a great source of talent for Tesla, and we're going after it."[56][58][59]
+
+Sales
+Tesla delivered 367,500 cars in 2019, 50% more than in 2018 and more than triple the number sold in 2017. At the end of 2019, Tesla's global sales since 2012 totaled over 891,000 units.[60][61][28] Year over year Tesla U.S. vehicle sales from 2017 to 2018 increased by 280% from 48,000 to 182,400.[27] As of October 2018, Tesla's sales represented about 20% of the all-electric cars on the world's roads, according to Navigant Research.[62] In July 2017, Tesla said their vehicles had traveled 5 billion miles (8 billion km).[63]
+
+Cumulative global sales of Tesla's electric vehicles by model up to December, 2019
+Model/launch year				Units delivered
+Roadster (2008)	
+â€ƒ
+2,450
+Model S+X (2012, 2015)	
+â€ƒ
+442,600
+Model 3 (2017)	
+â€ƒ
+448,400
+(In 2019, Tesla began combining sales figures for the Model S and Model X.)
+In 2016 BYD Auto was the world's top selling plug-in car manufacturer with 101,183 units sold, followed by Tesla with 76,243.[64][65] However, Tesla revenues ranked first with US$6.35 billion, while BYD notched US$3.88 billion.[66] Also in 2016, Tesla sold US$1 billion worth of cars in China, the world's largest market for electric vehicles, and in October of the following year it reached an agreement with the Chinese government to build a factory in Shanghai.[67]
+
+
+Tesla was the world's best selling plug-in passenger car manufacturer in 2018.[24][25] Shown its entire line up as of 2019
+After ranking third by brand in 2017, behind BYD and BAIC,[68][69] Tesla ranked as the world's best selling plug-in passenger car manufacturer in 2018, both as a brand and by automotive group, with 245,240 units delivered, capturing a market share of 12% of all plug-in cars sold globally in 2018,[24][25][26] followed by BYD Auto with 227,152 plug-in passenger cars delivered.[26][70]
+
+In August of 2015, Tesla launched a revamp of its stores to include interactive displays focused on safety, autopilot, charging network and motors.[71] As of October 2016, Tesla operated about 260 galleries or retail locations in the United States.[72] In June 2016, Tesla opened its first store-within-a-store: a small outpost within the Nordstrom department store at The Grove shopping mall in Los Angeles.[73] In 2017, Tesla opened retail locations in Dubai and South Korea.[74]
+
+Foreseeing Germany as its second market after the U.S. (and the largest in Europe), in 2016 Tesla stated the Dutch (Dienst Wegverkeer) RDW-issued Whole Vehicle Type Approval (WVTA) should be accepted as a legal compliance document, with no need to seek specific national type of approvals in EU member states.[75] In 2017 Tesla had a US$52 million marketing budget and used a referral program and word of mouth to attract buyers.[76][77]
+
+Production and sales by quarter
+Quarter	Cumulative
+production	Total
+production	Model S
+sales	Model X
+sales	Model 3
+sales	Total
+sales[b]	In transit[c]	Source
+Q1 2013	?	5,000+	4,900			4,900		[78]
+Q2 2013	?	?	5,150			5,150		[79]
+Q3 2013	?	?	5,500+			5,500+		[80]
+Q4 2013	~34,851	6,587	6,892			6,892		[81]
+Q1 2014	~41,438	7,535	6,457			6,457		[82]
+Q2 2014	~48,973	8,763	7,579			7,579		[83]
+Q3 2014	~57,736	~7,075	7,785			7,785		[84]
+Q4 2014	64,811	11,627	9,834			9,834		[85]
+Q1 2015	76,438	11,160	10,045			10,045		[86]
+Q2 2015	89,245	12,807	11,532			11,532		[87]
+Q3 2015	102,336	13,091	11,597	6		11,603		[88]
+Q4 2015	116,373	14,037	17,272	206		17,478		[89]
+Q1 2016	131,883	15,510	12,420	2,400		14,820	2,615	[90]
+Q2 2016	150,228	18,345	9,764	4,638		14,402	5,150	[91][92]
+Q3 2016	175,413	25,185	16,047	8,774		24,821	5,065	[93]
+Q4 2016[d]	200,295	24,882	12,700	9,500		22,254	6,450	[94][95]
+Q1 2017	225,713	25,418	~13,450	~11,550		25,051	~4,650	[96]
+Q2 2017	251,421	25,708	~12,000	~10,000		22,026	~3,500	[97][98]
+Q3 2017	276,757	25,336	14,065	11,865	222	26,137	4,820	[99][100]
+Q4 2017	301,322	24,565	~15,200	~13,120	1,542	29,967	3,380	[101][102][103]
+Q1 2018	335,816	34,494	11,730	10,070	8,182	29,997	6,100	[104]
+Q2 2018	389,155	53,339	10,930	11,370	18,440	40,740	15,058	[105][106]
+Q3 2018	469,297	80,142	14,470	13,190	56,065	83,725	11,824	[107][108]
+Q4 2018	555,852	86,555	13,500	14,050	63,359	90,700	2,907	[109][61]
+Q1 2019	632,952	77,100	12,100	50,900	63,000	10,600	[110]
+Q2 2019	720,000	87,048	17,650	77,550	95,200	7,400	[111][112]
+Q3 2019	816,155	96,155	17,483	79,703	97,186		[113]
+Q4 2019	921,046	104,891	19,450	92,550	112,000		[60]
+ Eberhard and Tarpenning were the original founders and incorporated Tesla, while Musk, Straubel and Wright joined in a Series A round later on. A lawsuit settlement agreed to by Eberhard and Tesla in September 2009 allows all five to call themselves founders.[2]
+ Sales are only counted as sold when delivered to end customer and all paperwork is correct
+ Goods in transit are produced but not counted as sold until delivered. Tesla no longer reports in transit numbers.
+ Sales by model do not add up to total, these were preliminary figures reported by Tesla. Only total sales is final figures are reported by Tesla, as breakdown by model is not typically provided.
+Tesla deliveries vary significantly by month due to regional issues such as ship availability and registration. Tesla does not follow the former auto industry standard of monthly reporting; GM and Ford changed from monthly to quarterly sales reporting in 2018 and 2019.[114] Some monthly sales are estimated by media.[115]
+
+US dealership disputes
+Main article: Tesla US dealership disputes
+
+Tesla gallery in Austin, Texas
+Tesla operates stores and galleries[116][117]â€”usually located in shopping mallsâ€”in many U.S. states. However, customers buy vehicles only from the Tesla website.[118][119][120][121] The stores serve as showrooms that allow people to learn about the company and its vehicles. Some galleries are located in states with restrictive dealer protection laws that prohibit discussing price, financing, and test drives, as well as other restrictions.
+
+Tesla's strategy of direct customer sales and owning stores and service centers is different from the standard dealership model in the global vehicle marketplace. Tesla is the only automaker that sells cars directly to consumers; all others use independently owned dealerships,[122][123] although many provide online configuration and financing.[124][125][126] 48 states have laws that limit or ban manufacturers from selling vehicles directly to consumers,[127][128][129] and although Tesla has no independent dealerships, dealership associations in multiple states have filed lawsuits over Tesla's sales practices.
+
+Countries other than U.S. do not protect dealers. The Federal Trade Commission recommends allowing direct manufacturer sales,[130][131] which analysts believe would save consumers 8% in average vehicle price.[132][133]
+
+In February 2019, Tesla announced that it would shut down the bulk of its stores and begin to sell cars exclusively through the internet.[134] The next month, the company reversed its decision, saying in a government filing that it would only close about half the number of showrooms it had originally intended to.[135]
+
+Used vehicles
+Under a buyback program called the Resale Value Guarantee available in 37 U.S. states, a Tesla Model S sold new before July 1, 2016 included the right to return it after three years with reimbursement of 43% to 50% of its initial price. This reimbursement matched the trade-in values of competitive German luxury cars of that age. In addition to maintaining the resale value, Tesla hoped to secure a supply of used cars to refurbish and re-sell with warranty. According to Automotive News, the profit margin on used car sales in the U.S. is about triple that on new cars, and Tesla's direct sales would allow them to capture resale profits.[136] Tesla ended the program in 2016, although they retained the Residual Value Guarantee on leased vehicles.[137][138][needs update]
+
+In May 2015, Tesla started selling refurbished Model S cars in the U.S.[139] and within a month sold 1,600 cars.[140] As of July 2017, over 80 used Model S and Model X cars were for sale, with either a four-year, 50,000-mile warranty[141] or a two-year, 100,000-mile warranty for vehicles above 50,000 miles.[142][143] As of September 2015, similar programs existed in Canada,[144] Austria,[145] Belgium,[146] Denmark,[147] France,[148] Germany,[149] Britain,[150] Netherlands,[151] Norway,[152] Sweden[153] and Switzerland.[154][needs update]
+
+Technology
+As a vertically integrated manufacturer, Tesla has had to master multiple technology domains, including batteries, electric motors, sensors, and artificial intelligence.
+
+Batteries
+
+Tesla Supercharger in West Hartford, Connecticut
+Unlike other automakers, Tesla does not use individual large battery cells, but thousands of small, cylindrical, lithium-ion commodity cells like those used in consumer electronics. It uses a version of these cells that is designed to be cheaper to manufacture and lighter than standard cells by removing some safety features. According to Tesla, these features are redundant because of the advanced thermal management system and an intumescent chemical in the battery to prevent fires.[155] Panasonic is the sole supplier of the cells for Model S, Model X, and Model 3 and cooperates with Tesla in the Gigafactory 1's '21â€“70' cells.[156]
+
+In February 2016, Tesla battery cell costs were estimated at US$200 per kWh.[46] Tesla indicated later in 2016 that their battery cells cost less than $190/kWh.[157] Still later that year Argonne Labs estimated $163/kWh at a production rate of 500,000 packs per year.[158][159] In the 2018 Tesla Shareholder meeting, Elon Musk stated battery cell cost could be $100/kWh in 2018. 2020 would bring $100/kWh Tesla battery packs (as opposed to battery cell).[160]
+
+The batteries are placed under the vehicle floor. This saves interior and trunk (boot) space but increases the risk of battery damage by debris or impact. The Model S has 0.25 in (6.4 mm) aluminum-alloy armor plate.[161] CTO Straubel expected batteries to last 10â€“15 years,[162] and discounts using electric cars to charge the grid (V2G) because the related battery wear outweighs economic benefit. He also prefers recycling over re-use for grid once they reach the end of their useful life for vehicles.[163][164] Since 2008, Tesla has worked with ToxCo/Kinsbursky to recycle worn out RoHS batteries, which will be an integral part of all Gigafactories.[165][166][167]
+
+Motors
+Tesla makes two kinds of electric motors. Their oldest currently-produced design is a three-phase four-pole AC induction motor with a copper rotor[168] (which inspired the Tesla logo), which is used as the rear motor in the Model S and Model X. Newer, higher-efficiency permanent magnet motors[clarification needed] are used in the Model 3, Model Y, Semi, and the front motor of newer (early 2019 and onward) versions of the Model S and X.[169]
+
+Autopilot
+Main article: Tesla Autopilot
+See also: Autonomous car and Connected car
+Tesla Autopilot provides semi-autonomous driver assist beginning in September 2014. Tesla replaced its sensors and software in 2016 (Hardware version 2, or "HW2"). As of 2017, Autopilot included adaptive cruise control, lane departure warning, emergency braking, Autosteer (semi-automated steering), Autopark (parallel and perpendicular parking) and Summon (recalling the vehicle from a parking place).[170][171] HW2 includes eight cameras and twelve ultrasonic sensors, in addition to forward-facing radar.[172] HW2.5 was released in mid-2017 that upgraded HW2 with a second GPU and, for the Model 3 only, a driver-facing camera.[173] HW3 were first installed in Model S and X's in q1 2019 and Model 3 followed quickly
+
+At the end of 2016, Tesla expected to demonstrate full autonomy by the end of 2017,[174][175] which is now expected in 2019.[176] In April 2017 Musk predicted that in around two years drivers would be able to sleep in their vehicle while it drives itself.[177]
+
+In April 2019, Tesla announced that all cars, including the Tesla Model 3, will include autopilot moving forward.[178] [179]
+
+Glass
+In November 2016, the company announced the Tesla glass technology group. The group produced the roof glass for the Tesla Model 3 and for use in SolarCity roof tiles announced in October 2016.[180] The tiles contain an embedded solar collector, and are one-third lighter than standard roof tiles.[181]
+
+Vehicle models
+
+Comparison of EPA-rated range for model year 2016 and 2017 electric cars rated up until July 2017. Tesla vehicles shown correspond to the variants with the longest and shortest range for each model (S, X and 3).[182][183]
+"Tesla electric car" redirects here. It is not to be confused with Nikola Tesla electric car hoax.
+See also: Tesla Roadster (2008)
+As of January 2019, Tesla offers three car models: the Model S, Model X and Model 3. The firm's first vehicle, the first-generation Tesla Roadster is no longer sold.
+
+Production
+Model S
+Main article: Tesla Model S
+The Model S is a five-door liftback sedan. Deliveries began on June 22, 2012.[184] The first delivery in Europe took place in August 2013.[185] Deliveries in China began in April 2014.[186] First deliveries of the right-hand-drive model destined for the UK, Australia, Hong Kong and Japan came in 2014.[187] As of August 2019, the Model S has two configurations: the Model S Long Range, and the Model S Performance with EPA ranges of 375 miles (604 km), and 345 miles (555 km) respectively.[188]
+
+
+Norway is the Model S' largest European market due to the country's comprehensive incentives for the adoption of pure electric cars.
+With an estimated 50,931 units sold in 2016, the Model S ranked was the world's best-selling plug-in car for the second year in a row.[64][65] As of September 2018, the Model S, with global sales of 250,000 units, ranks as the world's second best selling plug-in electric car in history after the Nissan Leaf (over 350,000 units).[104][105][107][189][190]
+
+The United States is the world's leading Model S market with an estimated 136,542 units sold through September 2018.[191] Norway ranked as the Model S largest overseas market as of November 2016,[192] with 11,802 new units registered.[193][194][195] The Tesla Model S became the first electric car ever to top the monthly sales ranking in any country, when the electric car achieved first place in the Norwegian new car sales list in September 2013.[196][197][198]
+
+In May 2010 Tesla purchased a stake in what would become the Tesla Factory in Fremont, California, for US$42 million,[199][200][201] and opened the facility in October 2010.[200][202][203] For the European market, a final assembly plant and European Distribution Center are part of the Tesla facilities in Tilburg, Netherlands. Cars are built and tested in Fremont; then the battery pack, the electric motor and parts are disassembled and shipped separately to Tilburg, where they are reassembled.[204]
+
+Among other awards, the Model S won the 2019 Motor Trend "Ultimate Car of the Year",[205] 2013 "Motor Trend Car of the Year",[206] the 2013 "World Green Car",[207] Automobile magazine's 2013 "Car of the Year",[208] and Time magazine's Best 25 Inventions of the Year 2012 award.[209]
+
+Model X
+Main article: Tesla Model X
+
+Elon Musk delivering one of the first six Model X Founders Series models
+The Tesla Model X is a mid-size crossover SUV with a lightweight aluminum body.[210] Model X deliveries started in September 2015.[211] It is offered in 5-, 6- and 7-passenger configurations. The passenger doors are articulating "falcon-wing" designs that open vertically.
+
+Production was rescheduled several times, from 2013 to late 2014,[212] to the second quarter of 2015,[213] to the third quarter of 2015.[214] In August 2015, user groups estimated around 30,000 X pre-orders, compared to 12,000 for the S.[215]
+
+Deliveries of the Model X Signature series began on September 29, 2015. Model X sales totaled 2,400 units during the first quarter of 2016, rising to 4,638 in the second quarter of 2016. Global deliveries totaled 25,312 units in 2016,[64] and 46,535 in 2017.[64][96][97][99][101]
+
+In September 2016, the Model X ranked as the top selling plug-in electric car in Norway.[216][217] Previously, the Model S had been the top selling new car four times.[216] Cumulative sales since inception totaled 106,689 units through September 2018.[64][96][97][99][101][104][105][107] The United States is its main market with an estimated 57,327 units sold through September 2018.[191]
+
+Model 3
+Main article: Tesla Model 3
+
+Tesla Model 3 production model.
+The Model 3 (originally stylized as "â˜°"), a four-door sedan, is Tesla's third-generation car.[38] The car was originally intended to be called the Model E, but after a lawsuit from Ford that holds the trademark on "Model E",[218] Musk announced on July 16, 2014 that the car would be called "Model 3" instead. In July 2017, the standard Model 3 was expected to deliver an EPA-rated all-electric range of 220 miles (350 km), while the long range model was estimated to deliver 325 miles (523 km).[183][needs update]
+
+On March 31, 2016, Tesla unveiled the car.[219] Potential customers began to reserve spots on March 31 with a refundable deposit.[220] Tens of thousands were reported waiting to reserve their spot.[221] As of April 7, 2016, one week after the unveiling, Tesla reported over 325,000 reservations,[222][223] representing sales of over US$14 billion.[224] As of July 2017, Tesla reported about 500,000 reservations.[225] Bloomberg News claimed "the Model 3's unveiling was unique in the 100-year history of the mass-market automobile." Bloomberg compared it to the 1955 CitroÃ«n DS that took in 80,000 deposits over 10-days at the Paris Auto Show.[226]
+
+
+First production Tesla Model 3 cars ready for the delivery event on July 28, 2017.
+Tesla expected to invest between US$2 billion and US$2.5 billion in capital expenditures to support Model 3 production.[95] Limited vehicle production began in July 2017.[95] The first 30 units were delivered at a special event on July 28, 2017.[183] Customer deliveries totaled 1,764 units in the U.S. in 2017.[100][103] In June 2018 production reached 5,000 per week.[227] In January 2019, Tesla announced it would cut its full-time workforce by 7% â€“ equal to about 3,150 employees â€“ in order to reduce the cost of the Model 3 from $44,000 to $35,000.[228] Musk explained that while the company had â€œmade great progress, our products are still too expensive for most people â€¦ There isnâ€™t any other way.â€[229]
+
+The Model 3 topped plug-in electric car sales in the U.S. in 2018, with an estimated all-time record of 139,782 units delivered, after being the top-selling plug-in car in the country for 12 consecutive months since January 2018,[230][231] and marking the first time a plug-in car sold more than 100,000 units in a single year.[232] In addition, it was listed as the best selling plug-in car in California in 2018 with 51,293 units.[233][234] The Tesla Model 3 also topped global sales of plug-in electric passenger cars in 2018 with 146,055 units delivered.[24] Global sales since inception totaled 198,719 units through March 2019.[100][103][109][61][110]
+
+On February 28, 2019, Tesla announced that they would begin to roll out the Standard Range base model starting at $35,000.[235][236] In January 2019, the Model 3 passed the Model S to become the top selling all-electric car in the U.S. ever,[237] and, the next month, also passed the Chevrolet Volt to become the all-time best-selling plug-in electric car in the U.S.[238] Since inception, about 164,000 Model 3 cars were delivered in the U.S. by March 2019.[239][needs update]
+
+The Tesla Model 3 in 4 trims: Standard Range Plus RWD, Dual Motor AWD Long Range, Performance and the off-the-menu $35,000 standard range.[citation needed] In 2019, Tesla Model 3 was the 9th best selling car in the United States.[240]
+
+Unveiled
+2020 Roadster
+Main article: Tesla Roadster (2020)
+
+Tesla Roadster 2020 prototype at the launch event in November 2017.
+Through a surprise reveal at the end of the event that introduced the Semi on November 16, 2017, Tesla unveiled the 2020 Roadster. Musk said that the new model will have a range of 620 miles (1,000 km) on the 200 kWh (720 MJ) battery pack and will achieve 0â€“60 mph in 1.9 seconds; it also will achieve 0â€“100 mph in 4.2 seconds,[241] and the top speed will be over 250 mph (400 km/h). The vehicle will have three electric motors allowing for all-wheel drive, and torque vectoring during cornering and the SpaceX Package which will include SpaceX cold air thrusters that will increase the speed even more.[242]
+
+At the time, the base price was set at US$200,000 while the first 1,000 units, the Founder's series, would sell for US$250,000.[242] Reservations required a deposit of US$50,000, and those who ordered the Founder's series paid the US$250,000 in full upon ordering. Those who made a reservation at the event were allowed a test drive with a driver in the prototype.[243]
+
+Tesla Semi
+Main article: Tesla Semi
+
+Tesla Semi truck
+The Tesla Semi is an all-electric Class 8 semi-trailer truck first mentioned in the 2016 Tesla Master plan.[244]
+
+The vehicle's official announcement was at a November 16, 2017 press conference where two prototypes were shown. Musk confirmed that two variants would be available: one with 300 miles (480 km) and one with 500 miles (800 km) of range, and that the 0â€“60 mph (0â€“97 km/h) time would be 5 seconds versus 15 seconds for a similar truck with a diesel engine.[245] The Semi will be powered by four electric motors of the type used in the Tesla Model 3 and will include an extensive set of hardware sensors to enable it to stay in its own lane, a safe distance away from other vehicles, and later, when software and regulatory conditions allow, provide self-driving operation on highways.[246] Musk also announced that the company would be involved in installing a solar-powered global network of the Tesla Megacharger devices to make the Semi more attractive to potential long-haul customers. A 30-minute charge would provide 400 miles (640 km) of range.[247][248]
+
+Model Y
+Main article: Tesla Model Y
+
+Tesla Model Y
+In August 2013, Tesla trademarked the name "Model Y".[249] In October 2015, Musk described a future "Model Y".[250] In August 2017, Tesla announced that the Model Y would use the Model 3 platform.[251]
+
+In February 2018, Tesla announced that they would unveil Model Y production plans within the next 3â€“6 months[252] and posted open positions for Model Y production and design. In May 2018, Musk said that the Model Y will be built on a platform that shares many components with the Model 3, and that the Model Y will be in production at the earliest in early 2020.[253] In July 2018, Musk rescheduled the Model Y unveiling to be March 2019.[254] In March 2019, Musk tweeted, "Model Y unveil event on March 14 at LA Design Studio"[255] also adding that "the Model Y would be 10% bigger than the Model 3 so would cost 10% more".[256]
+
+The Model Y unveiling occurred on March 14, 2019.[257] The car will have up to three rows of seats (up to 7 people), 66 cu ft (2 m3) of cargo space with the second and third rows folded, and will have a range of up to 300 miles (480 km).[257]
+
+The Tesla Model Y will be manufactured at Tesla Factory in Fremont, CA.[258] In the future, the Model Y is also planned to be built at the yet-to-be-built Gigafactory Berlin, newly announced in November 2019.[259]
+
+Cybertruck
+Main article: Tesla Cybertruck
+
+Cybertruck
+In August 2019, some analysts and journalists were speculating about the Tesla pickup truck being the Tesla Model B. The International Business Times reported that recent Musk "bee tweets, ... could very well be teasers of the Tesla Model B."[260] The Cybertruck was unveiled on 21 November 2019, announcing production set for late 2021.[261][262] Five days after the reveal, Cybertruck had more than 250,000 preorders.[263]
+
+Discontinued
+Roadster (2008)
+Main article: Tesla Roadster (2008)
+The Tesla Roadster is a battery electric vehicle (BEV) sports car, based on the Lotus Elise chassis, that was produced by the electric car firm Tesla Motors (now Tesla, Inc.) in California from 2008 to 2012. The Roadster was the first highway legal serial production all-electric car to use lithium-ion battery cells and the first production all-electric car to travel more than 320 km (200 miles) per charge. It is also the first production car to be launched into orbit, carried by a Falcon Heavy rocket in a test flight on February 6, 2018.[264]
+
+Other concepts
+In 2016, Musk indicated he hoped to one day produce a car cheaper than the Model 3:[265][266]
+
+There will be future cars that will be even more affordable down the road . . . With fourth generation and smaller cars and what not, we'll ultimately be in a position where everyone can afford the car.
+
+â€”â€‰Elon Musk at the Future Transport Solutions conference in Oslo, April 21, 2016
+Musk wanted the first three models to spell "SEX", but Ford owns the trademark to "Model E",[267] so he settled for "S3XY" by making the Model Y.[268]
+
+On July 20, 2016, Musk detailed his new master plan for Tesla. It includes more affordable cars produced in higher volume, solar-power roofs, mid-size vehicles, SUVs and pickup trucks, as well as the refinement of autonomous vehicles and the creation of a sharing economy, in which cars can be active while the owner is not using them.[269] Tesla intends to build a minibus on the Model X platform.[270] In May 2017, Musk indicated that he might favor a 10-12 passenger version of the Model X over a dedicated minibus design.[271]
+
+At the company's annual shareholder meeting in June 2018, Musk revealed Tesla's intention to enter a new market segment, offering a compact hatchback in "less than five years".[272][273] He provided no details, and dodged a question about also producing a subcompact. Musk also put to rest hopes for a Tesla motorcycle, saying "weâ€™re not going to do motorcycles".[274] However, in November 2019 during the unveiling of the Tesla Cybertruck, Musk also unveiled a Tesla ATV that was capable of charging from the cargo bed of the Cybertruck.[275]
+
+In April 2019 Elon Musk announced Tesla is going to launch an unmanned taxi by the end of 2020. The company plans to have more than 1 million unmanned vehicles by this time.[276]
+
+Battery products
+Main article: Tesla Powerwall
+In April 2015, the company unveiled its Powerwall home and Powerpack industrial battery packs,[277][278][279] and quickly received orders valued at US$800 million.[280] The two models included a 7-kilowatt-hour (25 MJ) wall-mounted unit and 10 kWh (36 MJ) unit. The company announced larger-scale configurations for industrial users in units of 100 kWh (360 MJ). The company planned to open source its patents for the entire range.
+
+Initial cells were made by Panasonic. When production shifted to Gigafactory 1,[281] Tesla expected costs to drop by 30%.[277]
+
+In September 2016, Tesla announced it had been chosen "through a competitive process" to supply Southern California Edison (SCE) with 27,000 hp (20 MW) power (and 80 MWh or 290 GJ energy) of battery storage. In May 2016, regulators had ordered SCE to invest in utility-scale battery systems to compensate local power supply after natural gas provider Southern California Gas leaked 1.6 million pounds (730 t) of methane into the atmosphere when a well ruptured at its Aliso Canyon Natural Gas Storage Facility, closing it permanently.[282]
+
+In November 2016, American Samoa's island of Ta'u with a population of approximately 600 was converted to a solar and battery microgrid from diesel-based energy generation.[283] In 2018, two microgrid projects were built in Samoa on the main island of Upolu: one at the Fiaga power station and one at the Faleolo International Airport.[284]
+
+After Hurricane Maria in September 2017, Elon Musk offered to work with Puerto Rico's government in rebuilding the island's electrical grid. In October 2017, Tesla brought 700 solar panels to the "Hospital del NiÃ±o," where the batteries helped bring care back to 3,000 patients who needed constant care.[285]
+
+In June 2017, Hawaii's Kauai island received a large solar and battery installation.[286]
+
+In July 2017, Tesla won a contract to install the world's biggest grid-scale lithium battery in South Australia by promising installation within 100 days.[287] The Hornsdale Power Reserve with total power capacity of 130,000 horsepower (100 MW) was connected to the grid on December 1, 2017.
+
+As of January 2019, Tesla was in talks with the government of Greece to provide solar and battery system for their islands with a proposed pilot on Limnos.[288]
+
+In February 2019, Tesla announced that it planned to acquire ultracapacitor energy storage manufacturer Maxwell Technologies.[289][290][291][292][needs update]
+
+In July 2019, Tesla unveiled Megapack, a containerized battery product for utility-scale projects. Each Megapack comes fully assembled from the factory with up to 3 MWh (11 GJ) of storage and 2,000 hp (1.5 MW) of inverter capacity.[293]
+
+Charging
+Supercharger network
+Main article: Tesla Supercharger
+
+Tesla Model S charging at a Supercharger station in Newark, Delaware
+
+Tesla superchargers in Toronto, Canada.
+
+Tesla destination charger in North America
+In 2012, Tesla began building a network of 480-volt fast-charging Supercharger stations. As of December 2018, there are 1,375 Supercharger stations operated globally with 11,414 superchargers.[294] The Supercharger is a proprietary direct current (DC) technology that provides up to 340 hp (250 kW) of power.[294] Tesla cars can recommend the fastest route for long-distance travel, incorporating possible charging delays.[295]
+
+All Tesla cars (except the original Roadster) come standard with Supercharging hardware. Model S and X cars ordered after January 15, 2017 get 400 kWh (1,400 MJ) of free Supercharging credits, which provides a range of roughly 1,000 miles per year (1,600 km/a). Cars purchased before that date received free supercharging.[296] From August 3, 2019, all Tesla Model X's and S's come standard with unlimited supercharging.
+
+In December 2016, after a complaint sent to Musk via Twitter about abuse, Tesla announced that it will start charging an "idle" fee for vehicles that continue to occupy charging stations after they are fully charged.[297][298]
+
+Destination charging location network
+In 2014, Tesla discreetly launched the "Destination Charging Location" Network by providing chargers to hotels, restaurants, shopping centers, resorts and other full service stations to provide on-site vehicle charging at twice the power of a typical charging location.[299][300][301] On April 25, 2016, Tesla launched European destination charging, with 150 locations and more to be added later.[302] Chargers are installed free of charge by Tesla-certified contractors. All installed chargers appear in the in-car navigation system.[303]
+
+Facilities
+In addition to its corporate headquarters, the company operates multiple large factories for making vehicles and their components. The company operates[304] showrooms and galleries around the world.[305]
+
+United States
+
+New Tesla Model S cars at the Tesla Factory in 2012
+Tesla was founded in San Carlos, California.[306] Tesla's first retail stores were in Los Angeles,[307] in Menlo Park, California[308] and in Manhattan's Chelsea art district, followed by others in major US cities.[49] In 2010, Tesla moved its corporate headquarters and opened a powertrain development facility in Palo Alto.[309]
+
+Factories
+Main articles: Tesla Factory, Gigafactory 1, and Gigafactory 2
+Tesla's first assembly plant occupies the former NUMMI plant in Fremont, California.[310][311] It is known as the Tesla Factory.[312] As of 2016, the plant was not highly automatedâ€”it was expected to produce some 80,000 cars with 6,000 workers compared to a "typical" plant that might produce 250,000 cars with 3,000 workers.[313] The 370-acre (1,500,000 m2) site includes a 5,500,000-square-foot (510,000 m2) building complex.[314]
+
+On April 1, 2019, Tesla reached a settlement with the United States Environmental Protection Agency (EPA) over its mishandling of hazardous waste in 2017. Tesla allowed hazardous waste to accumulate on site without a permit beyond the allowed 90 days; the EPA found Tesla failed to "promptly clean up flammable paint and or solvent mixtures", left two 55-US-gallon (210 L) containers of hazardous waste open with "no gasket or locking mechanism", and violated air emission standards for three leaky transmission lines that the waste moved through.[315]
+
+In 2015, Tesla acquired Riviera Tool & Die (with 100 employees in Michigan), one of its suppliers of stamping items.[316][317] In 2017, Tesla acquired Perbix Machine Company, a manufacturer of automated manufacturing equipment, that had been an equipment supplier for over three years.[318]
+
+Tesla occupies a second factory in Fremont. The building is more than 500,000 sq ft (46,500 m2). The location is next to a SolarCity facility, a few miles from the original Fremont plant.[319]
+
+Gigafactory 1 is located outside Reno, Nevada. As of January 2017, it occupied 1.9 million square feet (180,000 m2) with 4.9 million square feet (460,000 m2) of usable area across several floors.[320] It produces Powerwalls and Powerpacks[321][322] as well as battery cells[323] in partnership with Panasonic. It also produces Model 3 battery packs and drivetrains.[324] The factory received substantial subsidies from the local and state governments.[325] In August 2018, Karl Hansen, a former member of the company's security team, filed a whistleblower tip with the Securities and Exchange Commission. In the tip, he alleged that Tesla suppressed an internal investigation into various criminal activities at the Nevada Gigafactory. Hansen said that the company refused to tell the DEA about several employees who were allegedly moving cocaine and crystal methamphetamine on behalf of a Mexican drug cartel. He also said that the company tried to get him to not report a $37 million theft of raw materials. Additionally, he said the company fired an employee who reported the theft, and gave the reason that the employee was "not a Tesla team player."[326]
+
+The Gigafactory 2 is located in Buffalo, New York on the site of a former Republic Steel plant. It is operated by Tesla's SolarCity unit. The factory is a $750 million, 1.2-million-square-foot (0.11 km2) facility that directly employs 500 workers. Tesla partnered with Panasonic to assemble photovoltaic panel modules. Tesla received incentives to locate the factory in Buffalo through the Buffalo Billion program.[327][328][329][330] As of August 2017, the factory added production of solar tiles for the Tesla Solar Roof.[331] In January 2018, Tesla announced, after testing on employees' roofs, that it would begin installing the Tesla Solar Roof on customers' homes "within the next few months".[332] Version 3 of the Tesla Solar Roof was announced in October 2019, with this version achieving economic viability to be cost competitive for installations where a new roof is needed and residential solar power is desired. Production ramp up is expected to occur into 2020 as Tesla works through anticipated ramp-up issues with the new mass manufactured and mass installed product.[333]
+
+Canada
+
+Tesla store in Toronto.
+Tesla's first "new design" store opened on November 16, 2012 in the Yorkdale Shopping Centre in Toronto, Ontario. As of May 2017, eight Tesla stores/galleries operated in Montreal, Quebec City, Calgary, Toronto and Vancouver.[334]
+
+Europe
+
+Tesla showroom in Munich, Germany
+Tesla opened its first European store in June 2009 in London.[335][336] Tesla's European headquarters are in Amsterdam.[337] A 62,000 sq ft (5,800 m2) European service center operates in Tilburg, Netherlands, along with a 77,650 m2 (835,800 sq ft) assembly facility that adds drivetrain, battery and software to the (imported) car body to reduce EU import tax.[338][339][340] Musk confirmed in June 2014[341] and November 2016 its long-term plans to build a car and battery Gigafactory in Europe,[342] which several countries have campaigned to host.[343]
+
+In late 2016, Tesla acquired German engineering firm Grohmann Engineering in PrÃ¼m as a new division dedicated to helping Tesla increase the automation and effectiveness of its manufacturing process.[344] After winding down existing contracts with other auto manufacturers, Grohmann works exclusively on Tesla projects.[345]
+
+As of February 2018, Tesla is building a small research and development office in Athens, Greece.[346][347]
+
+In July 2018, it was reported that Tesla was exploring building its first major European factory in Germany or the Netherlands.[348]
+
+In November 2019, Elon Musk announced plans to build Gigafactory 4 in the Berlin area.[349]
+
+Asia
+
+Tesla Motor's Japanese showroom in Aoyama, Tokyo, which was the first showroom opened in the country
+Showrooms and service centers operate in Hong Kong,[350] Beijing and Shanghai.[351] Tesla opened its first Japanese showroom in Tokyo, Japan, in October 2010.[352] In South Korea, it opened two showrooms in March 2017[353] and a service center in late 2017.[354] In August, 2017, Taiwan opened its first service center and showroom.[355]
+
+Gigafactory 3
+Main article: Gigafactory 3
+In July 2018, Tesla signed an agreement with Chinese authorities to build a factory in Shanghai, China, which is Tesla's first Gigafactory outside of the United States.[356] The groundbreaking ceremony was held on January 7, 2019.[357] The factory building was finished in August 2019, and the initial Tesla Model 3s were in production from Gigafactory 3 in October 2019. [36]
+
+Middle East
+Tesla opened a showroom and a service center in Dubai, United Arab Emirates, in 2017 as the first expansion of Tesla in the Middle East. Five ultra-fast superchargers were also built between cities with a planned 50 destination chargers in the United Arab Emirates by the end of 2017.[358] The Dubai Department of Economic Development stated that it will assist Tesla expansion across the United Arab Emirates as well as neighboring countries in the Middle East.[359] One of the first Tesla customers was Dubai's Roads and Transport Authority which ordered 200 Tesla Model S and Model X vehicles that were added to Dubai Taxi Corporation's fleet.[360]
+
+Australia
+Tesla opened a showroom in Sydney's Martin Place in 2010,[361][362] followed by a showroom and service center in Melbourne in 2015.[363] By 2019, Tesla had opened 4 service centers in Australia.[364]
+
+Partners
+Unlike many traditional manufacturers, Tesla operates as an original equipment manufacturer (OEM), manufacturing powertrain components for other automakers. Tesla has had partnerships with Daimler and Toyota. It also works with Panasonic as a partner in battery and solar panel research and development. The company supplies battery packs for Freightliner Trucks' Custom Chassis electric van.[365]
+
+Daimler AG
+Daimler AG and Tesla began working together in late 2007. On May 19, 2009, Daimler bought a stake of less than 10% in Tesla for a reported US$50 million.[366][367] As part of the collaboration, Herbert Kohler, Vice-President of E-Drive and Future Mobility at Daimler, took a Tesla board seat.[368] On July 13, 2009, Daimler AG sold 40% of its May acquisition to Aabar Investments PJSC. Aabar is an Abu Dhabi government investment vehicle.[369][370] In October 2014, Daimler sold its remaining holdings.[371]
+
+Mercedes-Benz A-Class
+Main article: Mercedes-Benz A-Class E-Cell
+
+The Mercedes-Benz B-Class Electric Drive uses a battery pack developed by Tesla.[372]
+Tesla built electric-powertrain components for the Mercedes-Benz A-Class E-Cell, an electric car with a range of 120 mi (200 km) and 214 lbfâ‹…ft (290 Nâ‹…m) of torque. The 36 kWh (130 MJ) battery contained approximately 4,000 lithium-ion cells.[373] 500 cars were planned to be built for trial in Europe beginning in September 2011.[374][375]
+
+Mercedes-Benz B-Class ED
+Main article: Mercedes-Benz B-Class Electric Drive
+Tesla produced and co-developed the Mercedes-Benz B250e's powertrain, which ended production in 2017.[376] The electric motor was rated 134 hp (100 kW) and 230 pound force-feet (310 Nâ‹…m), with a 36 kWh (130 MJ) battery. The vehicle had a driving range of 200 km (124 mi) with a top speed of 150 km/h (93 mph).[377]
+
+Smart cars
+Main article: Smart electric drive
+Smart ED2s had a 14-kilowatt-hour (50 MJ) lithium-ion battery and a powertrain from Tesla.[378]
+
+Toyota
+On May 20, 2010, Tesla and Toyota announced a partnership to work on electric vehicle development, which included Toyota's US$50 million future conditional investment[379] in Tesla and Tesla's US$42 million purchase of a portion of the former NUMMI factory.[199][200][202][380] Tesla cooperated on the development of electric vehicles, parts, and production system and engineering support.
+
+On June 5, 2017, Toyota announced that it had sold all of its shares in Tesla and halted co-operation, as Toyota had created their own electric car division.[381]
+
+Toyota RAV4 EV
+Main article: Toyota RAV4 EV Second generation
+
+Toyota RAV4 EV second generation
+Tesla and Toyota announced in July 2010 an agreement to develop a second generation of the compact Toyota RAV4 EV.[382] A second generation RAV4 EV demonstrator was unveiled at the October 2010 Los Angeles Auto Show. Toyota built 35 of these converted RAV4s (Phase Zero vehicles) for a demonstration and evaluation program that ran through 2011. The lithium metal-oxide battery and other powertrain components were supplied by Tesla.[383][384] In August 2012, the production version RAV4 EV was unveiled; the battery pack, electronics and powertrain components are similar to those used in the Tesla Model S sedan launched in June 2012, and the Phase Zero vehicles used components from the Roadster.[385][386]
+
+The RAV4 EV had a limited production run which resulted in just under 3,000 vehicles being produced.[387] The RAV4 EV hasn't been on the market since 2014 and there aren't any known plans to revive the model.[388]
+
+Freightliner
+Tesla supplies battery packs for Freightliner Trucks' Custom Chassis electric van.[365]
+
+Panasonic
+
+Panasonic Energy Company President Naoto Noguchi presented Tesla CTO JB Straubel with the first production run of lithium-ion cells from Panasonic's facility in Suminoe-ku, Osaka, Japan
+On January 7, 2010, Tesla and battery cell maker Panasonic announced that they would together develop nickel-based lithium-ion battery cells for electric vehicles. Naoto Noguchi, President of Panasonic's Energy Company, said that the Japanese firm's cells would be used for Tesla's "current and next-generation EV battery pack."[389] The partnership was part of Panasonic's US$1 billion investment over three years in facilities for lithium-ion cell research, development and production.[390]
+
+Beginning in 2010 Panasonic invested US$30 million for a multi-year collaboration on next generation cells designed specifically for electric vehicles.[391]
+
+In July 2014, Panasonic reached a basic agreement with Tesla to participate in Gigafactory 1.[392]
+
+Tesla and Panasonic also collaborate on the manufacturing and production of photovoltaic (PV) cells and modules at Gigafactory 2 in Buffalo, New York.[331][393]
+
+Airbnb
+In August 2015, Tesla partnered with Airbnb to provide destination chargers at certain host houses, initially in California.[394]
+
+Liberty Mutual
+Tesla partnered with Liberty Mutual Insurance Company to offer an auto-insurance plan designed specifically for its electric cars. The plan was made available to US customers In October 2017.[395]
+
+Lawsuits and controversies
+Main article: Lawsuits and Controversies of Tesla, Inc.
+From 2008 to 2018 there have been many lawsuits filed by and against Tesla.
+
+Securities Litigation Relating to SolarCityâ€™s Financial Statements and Guidance
+On March 28, 2014, a purported stockholder class action was filed in the U.S. District Court for the Northern District of California against SolarCity and two of its officers. The complaint alleges violations of federal securities laws and seeks unspecified compensatory damages and other relief on behalf of a purported class of purchasers of SolarCity's securities from March 6, 2013 to March 18, 2014. On March 8, 2018, the Court upheld the District Court ruling of dismissal and judgment in Tesla's favor. The case is concluded.[396]
+
+Securities Litigation Relating to the SolarCity Acquisition
+Between September 1, 2016 and October 5, 2016, seven lawsuits were filed in the Court of Chancery of the State of Delaware by purported stockholders of Tesla challenging the company's acquisition of SolarCity. Following consolidation, the lawsuit names as defendants the members of Tesla's board of directors as then constituted and alleges, among other things, that board members breached their fiduciary duties in connection with the acquisition. The complaint asserts both derivative claims and direct claims on behalf of a purported class and seeks, among other relief, unspecified monetary damages, attorneysâ€™ fees, and costs. The case is set for trial in March 2020.[396]
+
+Securities Litigation Relating to Production of Model 3 Vehicles
+On October 10, 2017, a stockholder class action was filed in the U.S. District Court for the Northern District of California against Tesla, two of its current officers, and a former officer. The complaint alleges violations of federal securities laws and seeks unspecified compensatory damages and other relief on behalf of a purported class of purchasers of Tesla securities from May 4, 2016 to October 6, 2017.[396] This lawsuit was dismissed in Teslas' favor in March 2019[397].
+
+Litigation Relating to 2018 CEO Performance Award
+On June 4, 2018, a purported Tesla stockholder filed a putative class and derivative action in the Delaware Court of Chancery against Mr. Musk and the members of Tesla's board of directors as then constituted, alleging that such board members breached their fiduciary duties by approving the stock-based compensation plan. The complaint seeks, among other things, monetary damages and rescission or reformation of the stock-based compensation plan.[396]
+
+Securities Litigation related to Potential Going Private Transaction
+Between August 10, 2018 and September 6, 2018, nine purported stockholder class actions were filed against Tesla and Elon Musk in connection with Elon Musk's August 7, 2018 Twitter post that he was considering taking Tesla private. All of the suits are now pending in the United States District Court for the Northern District of California. Although the complaints vary in certain respects, they each purport to assert claims for violations of federal securities laws related to Mr. Musk's statement and seek unspecified compensatory damages and other relief on behalf of a purported class of purchasers of Tesla's securities. The hearing on the motion to dismiss is tentatively set for June 20, 2019.[396]
+
+Between October 17, 2018 and November 9, 2018, five derivative lawsuits were filed in the Delaware Court of Chancery against Mr. Musk and the members of Tesla's board of directors as then constituted in relation to statements made and actions connected to a potential going private transaction. These cases have been stayed pending resolution of the stockholder class action.[396]
+
+Settlement with SEC related to Potential Going Private Transaction
+On October 16, 2018, the U.S. District Court for the Southern District of New York entered a final judgment approving the terms of a settlement filed with the Court on September 29, 2018, in connection with the actions taken by the U.S. Securities and Exchange Commission (the â€œSECâ€) relating to Elon Musk's prior statement that he was considering taking Tesla private. Without admitting or denying any of the SEC's allegations, and with no restriction on Mr. Musk's ability to serve as an officer or director on the Board (other than as its Chair), among other things, Tesla and Mr. Musk paid civil penalties of $20 million each and agreed that an independent director will serve as Chair of the Board for at least three years.[396]
+
+Product issues
+Recalls
+As of March 2018, Tesla had issued two product recalls for the Roadster, six for the Model S and two for the Model X.[398]
+
+On April 20, 2017, Tesla issued a worldwide recall of 53,000 (~70%) of the 76,000 vehicles it sold in 2016 due to faulty parking brakes which could become stuck and "prevent the vehicles from moving".[399][400]
+
+On March 29, 2018, Tesla issued a worldwide recall of 123,000 Model S cars built before April 2016 due to corrosion-susceptible power steering bolts, which could fail and require the driver to use "increased force" to control the vehicle.[401]
+
+Crashes and fires
+See also: Tesla Model S fire incidents and Tesla Autopilot Â§ Serious crashes
+On October 1, 2013, a Model S caught fire after the vehicle hit metal debris on a highway in Kent, Washington. Tesla confirmed the fire began in the battery pack and was caused by the "direct impact of a large metallic object to one of the 16 modules within the Model S battery pack."[402] On November 6, 2013, a Tesla Model S on Interstate 24 near Murfreesboro, Tennessee, caught fire after it struck a tow hitch on the roadway, causing damage beneath the vehicle. Tesla said that it would conduct its own investigation,[403] and as a result of these incidents, announced its decision to extend its current vehicle warranty to cover fire damage.[404]
+
+On January 4, 2014, a Tesla Model S in Norway caught fire while charging at one of Tesla's supercharger stations and was completely destroyed. No one was injured.[405]
+
+On March 28, 2014, NHTSA announced that it had closed the investigation into whether the Model S was prone to catch fire, after the automaker said it would provide more protection to its battery packs.[406] All Model S cars manufactured after March 6 have had the 0.25-inch (6.4 mm) aluminum shield over the battery pack replaced with a new three-layer shield.[407]
+
+A Model S driver died in a collision with a tractor-trailer on May 7, 2016, in Williston, Florida, while the vehicle was in autopilot mode. The driver is believed to be the first person to have died in a Tesla vehicle in autopilot mode.[408][409] The NHTSA investigated the accident and concluded: "A safety-related defect trend has not been identified at this time and further examination of this issue does not appear to be warranted."[410]
+
+On May 8, 2018, two 18-year-olds, driver Barrett Riley and passenger Edgar Monserratt Martinez, died in a fire in Fort Lauderdale, Florida that started after crashing a Tesla Model S into a wall at 116 mph. Speed is believed to have been a factor in the crash.[411][412][413] Less than two months before the crash, it was reported that Riley's parents had a limiter installed to limit the speed to 85 mph, but it was removed at another Tesla service visit without the parents' knowledge. The removal of the limiter and alleged defective battery pack formed the basis of a lawsuit against Tesla by the estate of Edgar Monserratt Martinez. The lawsuit was filed on January 9, 2019.[414]
+
+Maintenance costs, crash rates, and insurance costs
+On June 4, 2017, the American Automobile Association raised insurance rates for Tesla owners following a report from the Highway Loss Data Institute. The report concluded that the Model S crashes 46% more often and is 50% more expensive to repair than comparable vehicles. Similarly, the Model X was concluded to crash 41% more often and to be 89% more expensive to repair than similar vehicles. As a result, AAA raised insurance rates on Tesla cars by 30%. Tesla said that the analysis is "severely flawed and not reflective of reality", however, Tesla failed to provide any contradictory numbers.[415] Shortly thereafter, Russ Rader, the spokesman for the Insurance Institute for Highway Safety, confirmed the AAA's analysis and that "Teslas get into a lot of crashes and are costly to repair afterward".[416][417]
+
+Delays
+Tesla has been criticized for repeatedly overpromising and underdelivering. Delivery dates for new vehicles and new vehicle features slipped on the Roadster, Model S, Model X and Model 3. Advanced technologies like the prospect of a large network of solar-powered supercharger stations (first installation was in 2012; only two were solar-powered as of late 2014) also lagged projections.[418]
+
+In early October 2017, Musk had predicted that Model 3 production would be up to 5,000 units per week by December.[419] A month later, he revised that target to "sometime in March" 2018 due in part to difficulties with robots on the assembly line, but primarily due to problems with the battery module.[420] An analyst with Cowan and Company, a public relations firm, made this comment: "Elon Musk needs to stop over promising and under delivering".[421]
+
+On September 24, 2018, Musk revealed on Twitter that Tesla will be building its own car carriers as the company is facing challenges due to logistics. Tesla is running into an acute shortage of car carrier trailers leading to a delay in the delivery.[422] In mid-November, with end-of-year buyer tax credits expiring in a little more than six weeks, Musk announced that the company was aggressively ramping up delivery capabilities with trucking contracts and even outright purchase of some trucking firms to deliver as many cars as possible before the deadline.[423]
+
+Hacking
+In August 2015, two researchers said they were able to take control of a Tesla Model S by hacking into the car's entertainment system.[424] The hack required the researchers to physically access the car.[425] Tesla issued a security update for the Model S the day after the exploit was announced.[426]
+
+In September 2016, researchers at Tencent's Keen Security Lab demonstrated a remote attack on a Tesla Model S and controlled the vehicle in both Parking and Driving Mode without physical access. They were able to compromise the automotive networking bus (CAN bus) when the vehicle's web browser was used while the vehicle was connected to a malicious Wi-Fi hotspot.[427] This was the first case of a remote control exploit demonstrated on a Tesla. The vulnerability was disclosed to Tesla under their bug bounty program[428] and patched within 10 days, before the exploit was made public.[429] Tencent also hacked the doors of a Model X in 2017.[430]
+
+In January 2018, security researchers informed Tesla that an Amazon Web Services account of theirs could be accessed directly from the Internet and that the account had been exploited for cryptocurrency mining. Tesla responded by securing the compromised system, rewarding the security researchers financially via their bug bounty program, and stating that the compromise did not violate customer privacy, nor vehicle safety or security.[431][432]
+
+In 2019, Tesla awarded a car and $375,000 to benevolent hackers during a Pwn2Own Model 3 Hacking Event.[433]
+
+Servicing
+Tesla offers service at its service centers. If a center is not available, mobile technicians can perform most inspections and repairs. In 2016, Tesla recommended to have any Tesla car inspected every 12,500 miles or once a year, whichever comes first.[434] In early 2019, the manual was changed to say: "your Tesla does not require annual maintenance and regular fluid changes," and instead it recommends periodic servicing of the brake fluid, air conditioning, tires and air filters.[435]
+
+The first units for each new model revealed design and manufacturing flaws, including the Model S and the Model X.[436][437] As the Tesla vehicle fleet grew, the number of service centers resulted in waiting periods for some owners.[438] Auto experts view the service delays as insignificant, as owners accept the challenges of servicing a new type of car.[438] Tesla does not provide service manuals except in jurisdictions that required them to do so.[439]
+
+At the June 2018 shareholder meeting, Elon Musk confirmed that Tesla will soon start to open its first body shops in the top ten U.S. metropolitan areas, stocking some body parts, potentially allowing for same-day service.[440][needs update]
+
+Lobbying activity
+In response to constant state auto dealers associations lobbying to prevent Tesla from selling cars directly to the public, Tesla has lobbied in several states for the right to sell cars. In June 2017, Tesla made a "last-minute push near the end of the Albany legislative session to expand its sales force in New York."[441] New York State Legislature bill A.8248/S.6600 would allow Tesla to operate 20 sales locations in the state, up from its current 5. Automotive dealers attacked the bill, arguing that it would hurt their business because Tesla does not sell through dealers. According to the New York Law Journal, "Tesla . . . has its own in-house lobbyists, according to disclosures filed with the state's lobbying entity."[441] The bill did not get to the floor of either house.[442][443]
+
+Board of directors
+As of December 2018, the Tesla board of directors consists of:[444]
+
+Robyn Denholm, Chairman of Tesla, Inc. CFO and Head of Strategy of Telstra
+Elon Musk, CEO and Product Architect of Tesla; founder, CEO and CTO of SpaceX; Chairman of SolarCity
+Brad W. Buss, Former CFO of SolarCity; former CFO of Cypress Semiconductor Corp
+Ira Ehrenpreis, General Partner at Technology Partners
+Larry Ellison, Co-founder, Chairman and CTO of Oracle Corporation
+Antonio J. Gracias, CEO and Chairman of the Investment Committee at Valor Equity Partners
+Steve Jurvetson, Managing Director, Draper Fisher Jurvetson
+Kimbal Musk, Co-founder of The Kitchen
+James Murdoch, former CEO of 21st Century Fox
+Linda Johnson Rice, CEO and Chairman of Johnson Publishing Company
+Kathleen Wilson-Thompson, Senior Vice President and Chief Human Resources Officer of Walgreens Boots Alliance, Inc.
+A group of investors asked Tesla in a 2017 public letter to add two new independent directors to its board â€œwho do not have any ties with chief executive Elon Muskâ€.[445] The investors wrote that â€œfive of six current non-executive directors have professional or personal ties to Mr. Musk that could put at risk their ability to exercise independent judgement.â€[446] The letter called for a more independent board that could put a check on groupthink.[446] At first Musk responded on Twitter, writing that the investors "should buy Ford stock" because "their governance is amazing.â€[446] Two days later, he promised he would add two independent board members.[447]
+
+Acquisitions
+Riviera Tool LLC - manufacturer of stamping die systems used to form sheet metal parts. The acquisition was announced on May 8, 2015. Riviera Tool LLC was acquired for an unknown price.[448]
+SolarCity - provides solar energy services to homeowners, businesses, government, and non-profit organizations. The acquisition was announced on June 22, 2016. The acquisition price was US$2.6 billion.[449]
+Grohmann Engineering - German engineering company based in PrÃ¼m. The acquisition was announced on November 2016. The price was US$135 million.[450]
+Perbix - designs automated manufacturing equipment. The acquisition was announced on November 7, 2017. It was an all-stock acquisition for about US$10.5 million.[451]
+Maxwell Technologies - manufactures and markets energy storage and power delivery solutions[buzzword] for automobiles. The planned acquisition was announced February 4, 2019[289] and completed on May 2019.[452] It was an all-stock acquisition for $218 million.[453]
+DeepScale - develops perceptual system technologies for automated vehicles. The acquisition was announced on October 1, 2019 for an undisclosed amount.[454]
+Hibar Systems Ltd. - in Ontario, Canada is world renown for advanced automation solutions for small cell batteries through a mechanized pump injection system. The acquisition was quietly discovered in Federal lobbyist registry database as of October 2, 2019. The value of the acquisition was unknown at that time.[455]
+Philanthropy
+$37.5 million to K-12 STEM education in Nevada.[456]
+Multiple contributions of solar power to areas recovering from disasters.[457][458]
+See also
+Battery electric vehicle
+List of automobile manufacturers of the United States
+List of Easter eggs in Tesla products
+List of electric cars currently available
+List of modern production plug-in electric vehicles
+List of production battery electric vehicles
+Plug-in electric vehicles in California
+Plug-in electric vehicles in the United States
+NIO
+Rivian
+Faraday Future
+Byton
+Fisker Inc.
+Polestar
+Xpeng G3
+References
+ "The Making Of Tesla: Invention, Betrayal, And The Birth Of The Roadster". businessinsider.com. Retrieved October 3, 2018.
+ Lamonica, Martin (September 21, 2009). "Tesla Motors founders: Now there are five". CNET. Retrieved February 14, 2017.
+ "Tesla 2019 Proxy statement". sec.gov. Retrieved November 15, 2019.
+ Musk, Elon (October 14, 2018). "Thanks for recognizing the great work of the Tesla team! 45,000 people now". Retrieved December 5, 2018.
+ "Tesla Delivers Record 112,000 Model 3, S & X Globally In Q4 2019". Inside EVs. Retrieved January 6, 2020.
+ "US SEC: Form 10-K Tesla, Inc". U.S. Securities and Exchange Commission. Retrieved March 8, 2018.
+ "Designs and manufactures electric sports cars". Retrieved May 12, 2017.
+ "Tesla". Fortune. Retrieved November 25, 2018.
+ "National solar installation numbers down after Tesla purchase". Las Vegas Review. USA. December 27, 2017. Retrieved October 16, 2019.
+ "Tesla Gigafactory | Tesla". tesla.com. Retrieved March 31, 2019.
+ "Tesla Factory | Tesla". Tesla Factory | Tesla. Retrieved March 31, 2019.
+ "Model S | Tesla". tesla.com. Retrieved March 31, 2019.
+ "Model X | Tesla". tesla.com. Retrieved March 31, 2019.
+ "Model 3 | Tesla". tesla.com. Retrieved March 31, 2019.
+ "Model Y | Tesla". tesla.com. Retrieved March 31, 2019.
+ "Tesla Roadster". Tesla Roadster. Retrieved March 31, 2019.
+ "Cybertruck | Tesla". tesla.com. Retrieved November 21, 2019.
+ "Tesla Semi". Tesla Semi. Retrieved April 1, 2019.
+ "Tesla Powerwall". tesla.com. Retrieved March 31, 2019.
+ "Powerpack - Commercial & Utility Energy Storage Solutions | Tesla". tesla.com. Retrieved March 31, 2019.
+ "Megapack - Utility-Scale Energy Storage | Tesla". tesla.com. Retrieved July 29, 2019.
+ "Solar Panels | Tesla". tesla.com. Retrieved March 31, 2019.
+ "Tesla Solar Roof". tesla.com. Retrieved March 31, 2019.
+ Jose, Pontes (January 31, 2019). "Global Top 20 - December 2018". EVSales.com. Retrieved February 2, 2019. "Global sales totaled 2,018,247 plug-in passenger cars in 2018, with a BEV:PHEV ratio of 69:31, and a market share of 2.1%. The world's top selling plug-in car was the Tesla Model 3, and Tesla was the top selling manufacturer of plug-in passenger cars in 2018, followed by BYD."
+ Jose, Pontes (February 3, 2019). "2018 Global Sales by OEM". EVSales.com. Retrieved February 3, 2019. "Tesla led plug-in car sales among automotive groups in 2018, with 245,240 units delivered, followed by BYD with 229,338, and the Renault-Nissan Alliance with 192,711."
+ "BMW sells over 140,000 plug-in cars throughout 2018". electricdrive.com. January 10, 2019. Retrieved January 14, 2019. The global share of plug-in electric cars by brand in 2018 was led by Tesla with 12%, followed by BYD with 11%, BMW with 9%, BAIC with 6%, and Roewe and Nissan, both with 5%.
+ "FCA, Honda, Nissan Dec. sales rise; GM, Ford, Toyota slip". Automotive News. January 3, 2019. Retrieved January 3, 2019.
+ Kane, Mark (January 2, 2019). "Tesla Production And Deliveries Graphed Through Q4 2018". InsideEVs.com. Retrieved January 5, 2019.
+ Zraick, Karen; Boudette, Neal E.; Victor, Daniel (November 21, 2019). "Tesla's Electric 'Cybertruck' Is Unveiled. It's Pointy". The New York Times. Retrieved November 23, 2019.
+ Burns, Matt (October 8, 2014). "A Brief History of Tesla". TechCrunch. Retrieved June 11, 2015. Tesla was founded not by Elon Musk, but rather by Martin Eberhard and Marc Tarpenning in July 2003. The two bootstrapped the fledgling auto company until Elon Musk provided $6.5M of the company's US$7.5M Series A financing round in February 2004.
+ "Elon Musk on Twitter". Retrieved June 9, 2017.
+ Musk, Elon (August 2, 2006). "The Secret Tesla Motors Master Plan (just between you and me) No. 124". Tesla Motors. Archived from the original on August 2, 2010. Retrieved October 3, 2010. [self-published source]
+ Musk, Elon. "CEO Elon Musk". Tesla Motors. Retrieved October 20, 2010.
+ Martin Eberhard (August 7, 2007). "Martin Eberhard of Tesla Motors speaks to the Motor Press Guild" (Flash video). Retrieved June 22, 2008.
+ "Tesla Motors Quick Facts". CNBC. May 30, 2008. Retrieved January 9, 2020.
+ Kolodny, Lora (October 23, 2019). "Tesla shares soar after crushing third-quarter earnings". CNBC. Retrieved October 23, 2019.
+ Robert Scardino (July 17, 2009). "MSNBC Calls EV Drivers 'Lunatic Fringe'". AllCarsElectric.com. Retrieved August 8, 2009.
+ Welch, David (July 30, 2007). "Tesla: A Carmaker With Silicon Valley Spark". BloombergBusinessweek. Archived from the original on September 14, 2014. Retrieved March 13, 2014.
+ "Elon Musk Envisions Tesla Electric Car as Low as $20K: Cleantech News". Gigaom.com. September 17, 2008. Archived from the original on March 12, 2015. Retrieved October 3, 2010.
+ Vaughan, Adam (October 25, 2013). "12 interesting things we learned from Tesla's Elon Musk this week". The Guardian. UK. Retrieved October 26, 2013.
+ "Abu Dhabi Joins Feds as Tesla Backer". NBC Bay Area. July 14, 2009. Retrieved August 8, 2009.
+ "Soap Opera". Tesla Motors. June 22, 2009. Archived from the original on July 25, 2009. Retrieved August 1, 2009. "Tesla Motors, Inc." consisted of Eberhard, Tarpenning and Wright, plus an unfunded business plan, and they were looking for an initial round of funding to create a more advanced prototype than the AC Propulsion Tzero. While there was a basic corporation in place, Tesla hadn't even registered or obtained the trademark to its name and had no formal offices or assets. To save legal fees, we just copied the SpaceX articles of incorporation and bylaws for Tesla and I invested $6.35M (98%) of the initial closing of $6.5M in Series A funding. Eberhard invested $75k (approximately 1%).
+ Masters, Blake; Cauble, Matt (October 7, 2014). "Peter Thiel â€“ Lecture 5: Business Strategy and Monopoly Theory". genius.com. Retrieved May 20, 2015.
+ "Tesla is now ~80% vertically integrated, says Goldman Sachs after a Tesla Factory visit". Electrek. February 26, 2016. Retrieved June 30, 2018.
+ McAssey, Pat (October 13, 2016). "Volkswagen CEO 'Annoyed Beyond Measure' That DHL Made Electric Van". NESN Fuel. Retrieved October 20, 2016.
+ Lambert, Fred (February 26, 2016). "Tesla is now ~80% vertically integrated, says Goldman Sachs after a Tesla Factory visit". electrek.co. Retrieved March 31, 2016.
+ "Alternative Fuels Data Center: Developing Infrastructure to Charge Plug-In Electric Vehicles". afdc.energy.gov. United States Department of Energy. Retrieved April 10, 2016.
+ Maria Gallucci (June 13, 2014). "Tesla Motors Opens Patents: Elon Musk's Electric Cars Now Part Of 'Open Source Movement'". HybridCars.com. Retrieved June 14, 2014.
+ "Press Releases" (Press release). Tesla Motors. June 4, 2009. Archived from the original on June 11, 2009. Retrieved August 1, 2009.
+ Richard Read. "Terrified of Tesla, NADA Launches Campaign To Tout Benefits of Franchise Dealerships". The Car Connection. Retrieved July 16, 2015.
+ Borroz, Tony (February 19, 2010). "Tesla CEO Honored for 'Enlightened Vision'". Wired. Retrieved April 12, 2015.
+ Musk, Elon (June 12, 2014), "All Our Patent Are Belong To You", Tesla Motors, retrieved June 13, 2014
+ Eric Blattberg (June 14, 2014). "Here's what Tesla's 'good faith' patent stance actually means". VentureBeat. Retrieved April 12, 2015.
+ Jeff John Roberts (June 14, 2014). "What Elon Musk did â€“ and did not â€“ do when he "opened" Tesla's patents". GigaOm. Retrieved April 12, 2015.
+ Hull, Dana (January 17, 2012). "Tesla gears up to hire manufacturing workers". Los Angeles Times. Retrieved January 12, 2012.
+ Hull, Dana (July 3, 2014). "2014: Tesla Motors on a mission to hire American veterans". San Jose Mercury News. Retrieved January 12, 2016.
+ Hull, Dana (December 8, 2015). "Tesla Hopes Hiring 1,656 People Will Make It Profitable". Bloomberg. Retrieved January 12, 2016.
+ "CBS Evening News". CBS. September 1, 2015. Retrieved January 12, 2016.
+ Hull, Dana (November 11, 2014). "Veterans tour Tesla's Fremont factory". SiliconBeat. Retrieved December 7, 2014.
+ "Tesla Q4 2019 Vehicle Production & Deliveries" (Press release). Palo Alto: Tesla. January 3, 2020. Retrieved January 3, 2020.
+ "Tesla Fourth Quarter & Full Year 2018 Update". Palo Alto: Tesla. January 30, 2019. Retrieved January 30, 2019. In Q4, we delivered 63,359 Model 3 vehicles to customers in North America.
+ Isodore, Chris (November 13, 2018). "Next up: Tesla vs the world". CNN. Retrieved November 15, 2018. By November 2018, Tesla has sold nearly 500,000 cars worldwide, which accounts for about 20% of all the battery-only electric vehicles on the road today, according to an estimate from Navigant Research.
+ Lambert, Fred (July 12, 2017). "Tesla's global fleet reaches over 5 billion electric miles driven ahead of Model 3 launch". Electrek. Retrieved September 4, 2017.
+ Cobb, Jeff (January 26, 2017). "Tesla Model S Is World's Best-Selling Plug-in Car For Second Year In A Row". HybridCars.com. Retrieved January 31, 2017.
+ Sharan, Zachary (February 4, 2017). "Tesla Model S & Nissan LEAF Clocked As World's Best-Selling Electric Cars In 2016". CleanTechnica. Retrieved February 4, 2017.
+ Fehrenbacher, Katie (March 14, 2017). "Tesla, BYD Jockey for Electric Car World Domination". Green Tech Media. Retrieved March 15, 2017. Revenue figures from Bloomberg New Energy Finance.
+ Morris, David Z. (October 22, 2017). "Tesla Reaches Deal to Build Factory in China: It sold $1 billion worth of cars there in 2016". Fortune.com. Time, Inc. Retrieved October 24, 2017.
+ Kane, Mark (January 26, 2018). "BYD #1 In World For Plug-In Electric Car Sales In 2017, Beats Tesla Again". InsideEVs.com. Retrieved January 14, 2019. "BYD sold 108,612 passenger plug-in cars in China in 2017, enough to make it the world's top selling plug-in car manufacturer for the third year in a row."
+ Jose, Pontes (January 29, 2018). "World Top 20 December 2017 (Updated)". EVSales.com. Retrieved January 14, 2019.
+ "BYD NEV sales in 2018 exceed 240,000 units". Gasgoo. January 8, 2019. Retrieved January 14, 2019. BYD Auto sold 247,811 new energy vehicles in 2018 (including commercial heavy-duty vehicles), up 118% from 2018, of which, 227,152 were passenger cars, consisting of 103,263 units all-electric cars and 123,889 units were plug-in hybrid vehicles. In addition, 20,659 new energy commercial vehicles were sold in 2018.
+ Hull, Dana (August 21, 2015). "Thanks for Buying a $100,000 Tesla. Want a Tote Bag With That?". Bloomberg News Business. Retrieved August 21, 2015.
+ Snavely, Brent (October 7, 2016). "Auto dealers chief warns of Tesla direct sales model". Detroit Free Press. US. Retrieved July 9, 2019 â€“ via USA Today.
+ Isidore, Chris (July 15, 2016). "Tesla opens a store inside Nordstrom". CNN Money.
+ Thompson, Cadie (May 4, 2017). "Tesla Plans to Open More Retail Locations Ahead of Model 3 Launch". Business Insider â€“ via Inc.
+ Nienaber, Michael; Wagner, Rene (July 8, 2016). "Germany denies investigating Tesla over software updates". Reuters. Archived from the original on August 4, 2016.
+ "Annual IRS report of Tesla, Inc. on Form 10-K for the year ended December 31, 2016". ir.tesla.com. March 1, 2017. Archived from the original on March 3, 2017. Retrieved July 24, 2017.
+ "How Tesla's Referral Program Generates More Than 40x ROI". Inc.com. September 22, 2016. Retrieved October 16, 2016.
+ Tesla Motors (May 8, 2013). "Tesla Motors â€“ First Quarter 2013 Shareholder Letter". Tesla Motors. Retrieved September 23, 2019. Record sales of $562 million, up 83% from last quarter
+ Tesla Motors (August 7, 2013). "Tesla Motors â€“ Second Quarter 2013 Shareholder Letter". Tesla Motors. Retrieved September 23, 2019. Record Q2 Model S deliveries of 7,579 vehicles.
+ Tesla Motors (November 5, 2013). "Tesla Motors â€“ Third Quarter 2013 Shareholder Letter". Palo Alto, California: Tesla Motors. Retrieved September 23, 2019. Record 5,500 Model S deliveries
+ "Tesla Motors - Fourth Quarter & Full Year 2013 Shareholder Letter". Tesla Motors. February 19, 2014. Retrieved September 23, 2019. Record 6,892 Model S vehicles sold and delivered in Q4
+ Tesla Motors (May 7, 2014). "Tesla Motors â€“ First Quarter 2014 Shareholder Letter". Tesla Motors. Retrieved September 20, 2019. Record Q1 Model S production of 7,535 vehicles.
+ Tesla Motors (July 31, 2014). "Tesla Motors â€“ Second Quarter 2014 Shareholder Letter". Tesla Motors. Retrieved September 20, 2019. Record Q2 Model S deliveries of 7,579 vehicles.
+ Tesla Motors (November 5, 2014). "Tesla Motors â€“ Third Quarter 2014 Shareholder Letter". Palo Alto, California: Tesla Motors. Retrieved September 20, 2019. Highest ever quarterly deliveries at 7,785 vehicles, despite factory shutdown in July
+ "Tesla Motors - Fourth Quarter & Full Year 2014 Shareholder Letter". Tesla Motors. February 11, 2015. Retrieved September 20, 2019.
+ Tesla Motors (May 6, 2015). "Tesla Motors â€“ First Quarter 2015 Shareholder Letter" (PDF). Tesla Motors. Retrieved August 4, 2016. A total of 10,045 Model S cars were delivered globaly during the first quarter of 2015.
+ Tesla Motors (August 5, 2015). "Tesla Motors â€“ Second Quarter 2015 Shareholder Letter" (PDF). Tesla Motors. Retrieved August 4, 2016. A total of 11,532 Model S cars were delivered globally during the second quarter of 2015.
+ Tesla Motors (August 4, 2016). "Tesla Motors â€“ Third Quarter 2015 Shareholder Letter" (PDF) (Press release). Palo Alto, California: Tesla Motors. Retrieved November 3, 2015. Tesla global electric car sales totaled 11,603 units during the third quarter of 2015, including six Tesla Model X units.
+ "Tesla Fourth Quarter & Full Year 2015 Update" (PDF). Tesla Motors. February 10, 2016. Retrieved February 10, 2016.
+ Tesla Motors (May 4, 2016). "Tesla shareholders letter:Tesla First Quarter 2016 Update" (PDF). Tesla Motors. Archived from the original (PDF) on June 1, 2016. Retrieved August 4, 2016.
+ "Tesla Second Quarter 2016 Update" (PDF) (Press release). Palo Alto: Tesla Motors. August 3, 2016. Retrieved August 3, 2016. During the second quarter of 2016 Tesla Motors delivered 14,402 new vehicles consisting of 9,764 Model S and 4,638 Model X. Production during 2Q 2016 totaled 18,345 vehicles.
+ "Tesla Q2 2016 Vehicle Production and Deliveries" (Press release). Palo Alto: Tesla Motors. July 3, 2016. Retrieved August 3, 2016.
+ "Tesla Third Quarter 2016 Update" (PDF). Tesla Motors. Palo Alto. October 26, 2016. Retrieved October 27, 2016.
+ "Tesla Q4 2016 Production and Deliveries". Tesla Motors. Palo Alto. January 3, 2017. Retrieved January 3, 2017.
+ "Tesla Fourth Quarter & Full Year 2016 Update" (PDF). Tesla Inc. Palo Alto. February 22, 2017. Archived from the original (PDF) on February 23, 2017. Retrieved February 22, 2017. Production totaled 24,882 vehicles in 4Q 2016 and vehicle deliveries totaled 22,252 units. No breakdown by model was provided.
+ "Tesla Q1 2017 Vehicle Production and Deliveries". Tesla Motors (Press release). Palo Alto: Market Wired. April 2, 2017. Retrieved April 4, 2017. Tesla (NASDAQ: TSLA) delivered just over 25,000 vehicles in Q1, of which approx 13,450 were Model S and approx 11,550 were Model X.
+ "UPDATE â€“ Tesla Q2 2017 Vehicle Production and Deliveries". Tesla. July 7, 2017. Retrieved July 10, 2017.
+ "Tesla Second Quarter 2017 Update (Letter to shareholders)" (PDF). Tesla. August 2, 2017. Archived from the original (PDF) on August 5, 2017. Retrieved August 5, 2017. We delivered 22,026 Model S and Model X vehicles in Q2, for a total of 47,077 in the first half of the year.
+ "Tesla Q3 2017 Vehicle Deliveries and Production". Tesla. October 2, 2017.
+ "_Update_Letter_2017-3Q.pdf Tesla Third Quarter 2017 Update". Tesla. November 1, 2017. Archived from the original on January 11, 2018. Retrieved January 10, 2018.
+ "Tesla Q4 2017 Vehicle Production and Deliveries". Tesla. January 3, 2018.
+ "Tesla confirms having produced its 300,000th electric car". Tesla. February 14, 2018.
+ "Tesla Fourth Quarter & Full Year 2017 Update" (PDF). Tesla (Press release). Palo Alto: Tesla. February 7, 2017. Archived from the original (PDF) on February 8, 2018. Retrieved February 7, 2018. In Q4, we delivered 28,425 Model S and Model X vehicles and 1,542 Model 3 vehicles, totaling 29,967 deliveries.
+ "Tesla First Quarter 2018 Update" (PDF). Tesla. Archived from the original (PDF) on May 27, 2018. Retrieved May 27, 2018.
+ "Tesla Second Quarter 2018 Delivery". Tesla. Retrieved July 22, 2018.
+ Donnelley, RR (August 1, 2018). Automotive Products. Tesla Second Quarter 2018 Update (Report). p. 2. Retrieved August 2, 2018. We produced 53,339 vehicles in Q2 and delivered 22,319 Model S and Model X vehicles and 18,449 Model 3 vehicles, totaling 40,768 deliveries.
+ "Tesla Third Quarter 2018 Delivery". Tesla. Retrieved October 2, 2018.
+ "Tesla Third Quarter 2018 Update". Palo Alto: Tesla. October 24, 2018. Retrieved October 24, 2018.
+ "Tesla Fourth Quarter 2018 Delivery". Tesla. Retrieved January 2, 2019.
+ "Tesla Q1 2019 Vehicle Production & Deliveries" (Press release). Palo Alto: Tesla. April 4, 2019. Retrieved April 4, 2019.
+ "Tesla Q2 2019 Vehicle Production & Deliveries" (Press release). Palo Alto: Tesla. July 2, 2019. Retrieved July 2, 2019.
+ Davies, Alex (July 3, 2019). "Tesla Model 3 Can Survive a Crashâ€”and Avoid One, Too". Wired. US. Retrieved July 9, 2019.
+ "Q3 2019 Update" (Press release). Palo Alto: Tesla. October 23, 2019. Retrieved January 7, 2020.
+ "Tesla CEO Elon Musk: Here's Why We Don't Report Monthly Sales Figures". 2014. Retrieved September 24, 2016.
+ "Monthly Plug-In Sales Scorecard". 2016. Retrieved September 24, 2016.
+ Read, Richard (October 8, 2012). "Tesla Accused of Operating Illegal Showrooms in 4 States". The Car Connection. Retrieved April 12, 2015.
+ Harry Stevens (January 15, 2013). "Court Affirms Tesla's Right to Operate Company-Owned Stores". Triple Pundit: People, Planet, Profit. Retrieved April 12, 2015.
+ Rogowsky, Mark (December 4, 2013). "Ohio To Tesla: We're Ignoring Our Whiny Car Dealers For Now, Come Sell Here". Forbes. Retrieved May 8, 2014.
+ Borchers, Callum (November 20, 2013). "Tesla battles auto dealers on direct sales to consumers". Boston Globe.
+ Voelcker, John (June 6, 2013). "Tesla Loses Legal Battles To Texas, North Carolina Dealers". Green Car Reports. Retrieved April 12, 2015.
+ "Model S Design Studio". Tesla Motors. Retrieved April 12, 2015.
+ Gearino, Dan (December 3, 2013). "Auto dealers in Ohio seek to stop Tesla's way of direct selling". The Columbus Dispatch. Retrieved April 12, 2015.
+ O'Toole, James (July 2, 2013). "Tesla direct-sales petition hits 100,000 signatures". CNN. Retrieved April 12, 2015.
+ Christina Rogers (October 7, 2013). "GM Opens the Door to Online New-Car Sales â€“ WSJ". The Wall Street Journal. Retrieved July 16, 2015.
+ Richard Read. "GM Follows Tesla's Lead, Plans To Sell Directly To Online Shoppers". The Car Connection. Retrieved July 16, 2015.
+ Bengt Halvorson. "Scion Lets You (Almost) Buy A Car at Home, Take Delivery at Dealership". The Car Connection. Retrieved July 16, 2015.
+ Voelcker, John (October 25, 2012). "Auto Dealers' Fight Against Tesla Stores: Elon Musk Weighs In". Green Car Reports. Retrieved February 10, 2014.
+ David Noland. "How Texas's Absurd Anti-Tesla Laws Turn Car Buying into A Joke". Jalopnik. Retrieved April 12, 2015.
+ Chapman, Steve (June 20, 2013). "Car buyers get hijacked". Chicago Tribune. Retrieved April 12, 2015.
+ "Direct-to-consumer auto sales: It's not just about Tesla". May 11, 2015. Retrieved July 16, 2015.
+ Richard Read. "Can The FTC Persuade Michigan & Other States To Open Their Doors To Tesla?". The Car Connection. Retrieved July 16, 2015.
+ Lane, Charles (March 12, 2014). "Tesla takes on car dealerships in a fight to the death". The Washington Post. Retrieved May 20, 2015.
+ Bodisch, Gerald R. (May 2009). "Economic Effects Of State Bans On Direct Manufacturer Sales To Car Buyers". US: Department of Justice. Retrieved July 9, 2019.
+ Lawler, Richard (February 28, 2019). "Tesla's car sales are going online-only". Engadget. Retrieved February 28, 2019.
+ Krisher, Tom (March 11, 2019). "Tesla walks back its plan to close most showrooms". Associated Press. Retrieved March 11, 2019.
+ Nelson, Gabe (October 6, 2014). "Tesla's trump card? Used cars". Automotive News. Retrieved July 7, 2015.
+ Wenck, Kevin (July 27, 2016). "Tesla: Residual Value Guarantees (On Leased Vehicles) Did Not End In July". Seeking Alpha. Retrieved June 17, 2017.
+ Lambert, Fred (July 13, 2016). "Tesla discontinues 'Resale Value Guarantee' program for new vehicles to focus on low interest rates". Electrek. US. Retrieved August 22, 2016.
+ Joseph, Noah (May 4, 2015). "Tesla starts selling used Model S EVs online". Autoblog.com. Retrieved July 31, 2015.
+ Caldwell, Jessica (July 28, 2015). "Who Is the Used Tesla Model S Buyer?". Edmunds.com. Retrieved July 31, 2015.
+ "Pre-Owned Model S ; Tesla Motors". Tesla Motors. Retrieved July 7, 2015.
+ Szymkowski, Sean (June 16, 2017). "Tesla changes warranty, cuts used Model S prices, to lure Model 3 buyers". Retrieved June 17, 2017.
+ Lambert, Fred (June 12, 2017). "Tesla's new batches of used cars are selling ludicrously fast". Electrek. US. Retrieved June 17, 2017.
+ "Pre-Owned Model S ; Tesla Motors Canada". Tesla Motors. Retrieved September 27, 2015.
+ "Gebrauchtes Model S ; Tesla Motors Ã–sterreich" (in German). Tesla Motors. Retrieved September 27, 2015.
+ "Model S d'occasion ; Tesla Motors Belgique" (in French). Tesla Motors. Retrieved September 27, 2015.
+ "Brugt Model S ; Tesla Motors Danmark" (in Danish). Tesla Motors. Retrieved September 27, 2015.
+ "Model S d'occasion ; Tesla Motors France" (in French). Tesla Motors. Retrieved September 27, 2015.
+ "Gebrauchtes Model S ; Tesla Motors Deutschland" (in German). Tesla Motors. Retrieved September 27, 2015.
+ "Pre-Owned Model S ; Tesla Motors UK". Tesla Motors. Retrieved September 27, 2015.
+ "Tweedehands Model S ; Tesla Motors Nederland" (in Dutch). Tesla Motors. Retrieved September 27, 2015.
+ "Brukt Model S ; Tesla Motors Norge" (in Norwegian). Tesla Motors. Retrieved September 27, 2015.
+ "Begagnade Model S ; Tesla Motors Sverige" (in Swedish). Tesla Motors. Retrieved September 27, 2015.
+ "Gebrauchtes Model S ; Tesla Motors Schweiz" (in German). Tesla Motors. Retrieved September 27, 2015.
+ Fisher, Thomas (June 11, 2013). "What Goes into A Tesla Model S Batteryâ€”And What It May Cost". Green Car Reports. Archived from the original on May 3, 2019. Retrieved February 11, 2014.
+ Weintraub, Seth (July 28, 2016). "Tesla Gigafactory tour roundup and tidbits: 'This is the coolest factory in the world'". Electrek. Retrieved July 30, 2016.
+ "Tesla Model 3 Pricing, Tesla Battery Price Down To $190/kWh". CleanTechnica. April 27, 2016. Retrieved September 7, 2016.
+ Wesoff, Eric (March 15, 2015). "How Soon Can Tesla Get Battery Cell Costs Below $100 per Kilowatt-Hour?". Greentech Media.
+ Lambert, Fred (December 14, 2016). "Tesla's hacked Battery Management System exposes the real usable capacity of its battery packs". Electrek. Retrieved January 13, 2017.
+ "$100/kWh Tesla Battery Cells This Year, $100/kWh Tesla Battery Packs In 2020". CleanTechnica. June 9, 2018. Retrieved February 2, 2019.
+ Noland, David (November 13, 2013). "How Tesla May Beef Up Its Model S Battery Protection System". Green Car Reports. Retrieved February 11, 2014.
+ "Tesla CTO: Tesla Batteries Expected To Last 10â€“15 Years At A Minimum". CleanTechnica. September 6, 2016. Retrieved September 7, 2016.
+ "Why Vehicle-To-Grid & Used EV Battery Storage Isn't Logical". CleanTechnica. August 22, 2016. Retrieved August 22, 2016.
+ Jacques, Carole (November 22, 2016). "Recycling, not Reuse, Is the Better Choice for Batteries from Retired Electric Vehicles". Lux Research. Retrieved November 25, 2016.
+ "Mythbusters Part 3: Recycling our Non-Toxic Battery Packs". Tesla Motors. March 11, 2008. Archived from the original on May 5, 2015.
+ Katie Spence (February 9, 2014). "Will Battery Recycling Help Tesla Motors' Massive Shortcoming?". fool.com. Archived from the original on August 19, 2014.
+ "The Electric Vehicle Battery 'Can And Should Be Recycled'". CleanTechnica. July 23, 2015.
+ "Model S Specifications". Tesla. Archived from the original on February 9, 2017. Retrieved December 5, 2015.
+ "Motor technology from Model 3 helps Tesla boost Model S range 10%". Ars Technica. April 24, 2019. Retrieved November 3, 2019.
+ Lawler, Richard (October 9, 2014). "Riding shotgun in Tesla's fastest car ever". Engadget. Retrieved October 10, 2014.
+ "Tesla D is, as expected, an AWD Model S but new autopilot features surprise". Green.autoblog.com. October 9, 2014. Retrieved October 10, 2014.
+ "Autopilot: Full Self-Driving Hardware on All Cars". Tesla Motors. Retrieved October 21, 2016.
+ Lambert, Fred (August 9, 2017). "Tesla has a new Autopilot '2.5' hardware suite with more computing power for autonomous driving". Electrek. Retrieved October 15, 2017.
+ Lambert, Fred (October 20, 2016). "Tesla's software timeline for 'Enhanced Autopilot' transition means 'Full Self-Driving Capability' as early as next year". Electrek. Retrieved October 20, 2016. At "2 to 3 months from now", Tesla expects .. the new software validation for the Autopilot features
+ Golson, Jordan; Bohn, Dieter (October 19, 2016). "All new Tesla cars now have hardware for 'full self-driving capabilities'". The Verge. Retrieved October 22, 2016.
+ Brown, Mike. "Elon Musk Doubles Down on Tesla Full Self-Driving for Next Year". Inverse. Retrieved February 9, 2019.
+ "Elon Musk on Boring Company, Semi-Truck, Mars â€“ TED Talk [transcript]". Electrek. May 1, 2017. Retrieved May 2, 2017. Chris: The time when someone will be able to buy one of your cars and literally just take the hands of the wheel and go to sleep and wake up and find that they've arrived. How far away is that? To do that safely? Elon: That's about two years.
+ https://www.tesla.com/autopilot
+ https://www.tesla.com/support/autopilot
+ Muoio, Danielle (November 1, 2016). "Elon Musk: Tesla is developing a special kind of glass for its Model 3". Yahoo News. Business Insider. Retrieved November 5, 2016.
+ "Elon Musk says Tesla will begin selling solar roof tiles". USA Today. May 10, 2017.
+ Energy Efficiency & Renewable Energy, U.S. Department of Energy and U. S. Environmental Protection Agency and (March 24, 2017). "Find a car â€“ Years: 2016â€“2017 â€“ Vehicle Type: Electric". fueleconomy.gov. Retrieved March 26, 2017.
+ Krok, Andrew (July 29, 2017). "By the numbers: Tesla Model 3 vs. Chevrolet Bolt EV". CNET. Retrieved July 29, 2017.
+ Boudreau, John (June 22, 2012). "In a Silicon Valley milestone, Tesla Motors begins delivering Model S electric cars". San Jose Mercury News. Retrieved June 22, 2012.
+ Ingram, Antony (August 7, 2013). "First 2013 Tesla Model S Delivered Outside North Americaâ€”In Oslo". Green Car Reports. Retrieved August 7, 2013.
+ Makinen, Julie (April 22, 2014). "Tesla delivers its first electric cars in China; delays upset some". Los Angeles Times. Retrieved May 7, 2014.
+ Trop, Jaclyn (February 19, 2014). "Loss Tapers at Tesla as Its Sales Still Climb". The New York Times. Retrieved February 19, 2014.
+ "Tesla Launches New Model S, X With Software-Locked 100-kWh Battery". Inside EVs. January 30, 2019. Retrieved February 9, 2019.
+ Cobb, Jeff (January 22, 2018). "Tesla Quietly Sold 200,000th Model S Last Year". HybridCars.com. Retrieved January 22, 2018. "Tesla sold its 200,000 Model S in the fourth quarter of 2017, in October or early November, becoming the second plug-in car to cross this sales threshold after the Nissan Leaf (300,000 units by early 2017). As of December 2017, Tesla reported global sales of 212,874 Model S cars."
+ "Nissan strengthens Formula E partnership with stake in e.dams" (Press release). Yokohama: Nissan. September 12, 2018. Retrieved October 22, 2018.
+ "Monthly Plug-in Sales Scorecard". InsideEVs.com. May 3, 2018. Retrieved October 22, 2018.
+ Young, Angelo (August 14, 2014). "Tesla in Norway: 436 Model S Sedans Are Being Delivered Monthly In Tesla's Largest Overseas Market". HybridCars.com. Retrieved September 15, 2014.
+ Frydenlund, StÃ¥le (January 2, 2014). "7.882 nye elbiler registrert i 2013" [7882 new electric cars registered in 2013] (in Norwegian). Norsk Elbilforening (Norwegian Electric Vehicle Association). Archived from the original on July 19, 2014. Retrieved March 13, 2016. Model S sales in Norway during 2013 totaled 1,986 units.
+ Frydenlund, Brett; Haugneland, Peter (January 6, 2016). "Nesten 26.000 nye elbiler i fjor" [Nearly 26,000 new electric cars last year]. Norsk Elbilforening (in Norwegian). Archived from the original on February 6, 2016. Retrieved April 3, 2016. Model S sales in Norway totaled 4,040 units in 2014, and 4,039 units in 2015.
+ "Bilsalget i oktober" [Car sales in October] (in Norwegian). Norwegian Road Federation (OFV). November 1, 2016. Archived from the original on November 4, 2016. Retrieved November 4, 2016. Click on "Modellfordelt" to display the top 20 selling new cars in Norway: Tesla Model S registrations totaled 1,740 new units during the first ten months of 2016.
+ "Norges mest solgte bil i september er en elbil" [Norway's best selling car in September is an electric vehicle]. GrÃ¸nn bil (in Norwegian). October 1, 2013. Archived from the original on October 4, 2013. Retrieved October 2, 2013.
+ Gasnier, Mat (October 2, 2013). "Norway September 2013: Tesla Model S in pole position!". Best Selling Cars Blog. Retrieved October 2, 2013.
+ Voelcker, John (October 1, 2013). "Tesla Model S Was Best-Selling Car in Norway For September". Green Car Reports. Retrieved October 2, 2013.
+ Davis, Joshua (September 27, 2010). "How Elon Musk Turned Tesla Into the Car Company of the Future". Wired. 18 (10). Archived from the original on June 24, 2016. Retrieved October 10, 2016.
+ Lindsay Riddell (May 20, 2010). "Tesla to buy NUMMI plant, build cars with Toyota". San Francisco Business Times. Retrieved May 21, 2010.
+ Ricketts, Camille (May 27, 2010). "Tesla paid $42M for NUMMI but doesn't have deal to build cars with Toyota". VentureBeat. Retrieved November 29, 2012.
+ "Tesla Wants NUMMI Operational By 2012". KVTU.com. May 21, 2010. Archived from the original on May 23, 2010. Retrieved May 22, 2010.
+ "Tesla unveils world's first mass-produced highway-capable EV" (Press release). Tesla Motors. March 26, 2009. Archived from the original on April 3, 2011. Retrieved August 1, 2009.
+ Willebrands, Michiel (August 22, 2013). "Tesla opent assemblagecentrum in Tilburg" [Tesla opens assembly center in Tilburg]. AutoWeek Netherlands (in Dutch). Retrieved October 7, 2013.
+ "Tesla Model S Beats Chevy, Toyota, and Cadillac for Ultimate Car of the Year Honors". Motor Trend. Retrieved January 2, 2020.
+ "Model S Motor Trend Car of the Year Award 2013". Motor Trend. Retrieved November 12, 2012.
+ "And Now There Is One.... Tesla Model S Declared 2013 World Green Car [press release]". International Business Times. PR Newswire. March 28, 2013. Archived from the original on May 24, 2013. Retrieved March 28, 2013.
+ Zenlea, David (November 1, 2012). "2013 Automobile of the Year: Tesla Model S". Automobile. Retrieved November 1, 2012.
+ "Best Inventions of the Year 2012â€”$22,000â€“$750,000â€”The Tesla Model S". Time. November 1, 2012. Retrieved November 2, 2012.
+ "Model X Specifications". tesla.com.
+ "Tesla Signature series Model X to begin delivery September 29". CNBC. Reuters. September 3, 2015. Retrieved September 4, 2015.
+ Cole, Jay Cole (March 9, 2013). "Tesla Delays Model X Production To "Late" 2014". InsideEVs.com. Retrieved March 10, 2013.
+ Cobb, Jeff (February 19, 2014). "Tesla Posts Strong Q4 Earnings; Projects More Growth This Year". HybridCars.com. Retrieved February 20, 2014.
+ Sebastian Blanco (November 5, 2014). "Tesla Model X delayed, again, but Musk says Model S demand remains high". Autoblog Green. Retrieved November 5, 2014.
+ Pritchard, Camilla (August 20, 2015). "Tesla Motors Inc (TSLA) Model X Pre-Orders Cross 30,000 Units". Business Finance News. Archived from the original on September 26, 2015. The table formed by TMC reveals that the electric vehicle (EV) company has received 30,027 Model X reservations worldwide. â€“ The sedan was able to receive only 12,000 pre-orders ahead of its launch.
+ Cobb, Jeff (October 11, 2016). "Almost Half The Cars Bought In Norway Last Month Were Electrified". HybridCars.com. Retrieved October 11, 2016.
+ Fred Magne SkillebÃ¦k (October 11, 2016). "Bilsalget september 2016 â€“ Full fart forover!" [Car sales in September 2016 â€“ Full speed ahead!]. Dinside.no (in Norwegian). Retrieved October 11, 2016.
+ "Tesla Model 3: Latest news, rumours, prices and specs". Auto Express. UK. Retrieved February 14, 2017.
+ "Tesla Model 3: Elon Musk unveils the Model 3 to huge fanfare". Los Angeles Times. March 31, 2016. Retrieved April 1, 2016.
+ "Model 3 Reservation Deposit". tesla.com. March 21, 2016. Retrieved March 22, 2016.
+ "Tesla Model 3: tens of thousands reportedly reserving the $35,000 car without having seen it". Electrek. March 31, 2016.
+ Hull, Dana (April 7, 2016). "Tesla Says It Received More Than 325,000 Model 3 Reservations". Bloomberg. Retrieved April 16, 2016.
+ Sommer, Lauren (April 18, 2016). "A Rare Look Inside The 'Gigafactory' Tesla Hopes Will Revolutionize Energy Use". NPR. Retrieved July 31, 2016.
+ Baker, David R. (April 1, 2016). "Tesla Model 3 reservations top 232,000". San Francisco Chronicle. Retrieved September 14, 2016.
+ "Tesla Hands Over First Model 3 Electric Cars to Early Buyers". US: NBC News. July 29, 2017. Retrieved July 29, 2017.
+ Randall, Tom (April 21, 2016). "Ten Charts That Will Make You Rethink Tesla's Model 3". Bloomberg News. Retrieved May 7, 2016.
+ "Tesla reaches Model 3 production milestone and record 7,000-car week total production, says Elon Musk". Electrek. July 1, 2018. Retrieved August 9, 2018.
+ Horowitz, Julia. "Tesla is slashing its workforce by 7% to make a cheaper Model 3". CNN. Retrieved January 19, 2019.
+ Eisenstein, Paul A. "'Road ahead is very difficult,' Tesla CEO warns, sending stock down". NBC News. Retrieved January 19, 2019.
+ Mark Kane (January 3, 2019). "U.S. Tesla Sales In December 2018 Up By 249%". Inside EVs. Retrieved January 9, 2019.
+ Steven Loveday (January 7, 2019). "December 2018 U.S. EV Sales Recap: Over 360K Secured!". Inside EVs. Retrieved January 9, 2019.
+ Kane, Mark (January 24, 2019). "US Plug-In Electric Car Sales Charted: December 2018". InsideEVs.com. Retrieved January 24, 2019. See Graph: "Top 10 U.S. Plug-in cars (cumulative sales)" and "U.S. Plug-in Car Sales (cumulative)"
+ Kane, Mark (February 21, 2019). "Electric Cars Outsell Hybrids In California: Tesla Model 3 Tops In Class". Inside EVs. Retrieved February 22, 2019.
+ California New Car Dealers Association (CNCDA) (February 2019). "New Vehicle Registrations Remained Above 2 million Units in 2018" (PDF). CNCDA. Retrieved February 21, 2019.
+ O'Kane, Sean (February 28, 2019). "Tesla's promised $35,000 Model 3 is finally here". The Verge. Retrieved February 28, 2019.
+ "Tesla 8-K". fintel.io. February 28, 2019. Retrieved February 28, 2019.
+ Kane, Mark (February 4, 2019). "US Plug-In Electric Car Sales Charted: January 2019". InsideEVs.com. Retrieved February 6, 2019. See Graph: "Top 10 U.S. Plug-in cars (cumulative sales)" In January 209 the Tesla Model 3 (148,046) overtook the Model S (144,767). The Chevrolet Volt (152,819) continues as the all-time best selling plug-in car in the U.S.
+ Kane, Mark (March 12, 2019). "US Plug-In Electric Car Sales Charted: February 2019". InsideEVs.com. Retrieved March 12, 2019.
+ Kane, Mark (April 7, 2019). "US Plug-In Electric Car Sales Charted: March 2019". InsideEVs.com. Retrieved April 13, 2019.
+ "Tesla Model 3 = 9th Best Selling Car In USA". CleanTechnica. December 16, 2019. Retrieved December 16, 2019.
+ â€œTesla Roadster.â€ Tesla, Inc, www.tesla.com/roadster.
+ Gibbs, Samuel (November 17, 2017). "Tesla Roadster: nine things we know about the 'smackdown to gasoline cars'". The Guardian. UK. Retrieved June 23, 2018.
+ Ballaban, Michael (July 17, 2015). "The Tesla Model S Just Got Upgraded to LUDICROUS SPEED". Jalopnik. Retrieved July 22, 2015.
+ Lambert, Fred (May 3, 2017). "Tesla Semi is using 'a bunch' of Model 3 electric motors, says Elon Musk". Electrek. US.
+ Mitchell, Russ (November 14, 2017). "Tesla's entry into truck-making presents a whole new challenge for Elon Musk". LA Times. US. Retrieved February 3, 2018.
+ Davies, Alex (November 16, 2017). "Elon Musk Reveals Tesla's Electric Semitruck". Wired. US. Retrieved February 3, 2018.
+ Sage, Alexandria (November 17, 2017). "Loblaw, Walmart to test out Tesla's all-electric Semi in Canada". CBC News. Canada. Retrieved April 15, 2018.
+ Smith, Jennifer (November 17, 2017). "Tesla's Electric Semi Truck Gets Orders From Wal-Mart and J.B. Hunt". WSJ. US. Retrieved April 15, 2018.
+ "Model Y". TradeMarkia. August 25, 2015. Retrieved February 10, 2016.
+ Warren, Tamara (October 6, 2015). "Elon Musk just teased the Model Y in a tweet (which he immediately deleted)". The Verge. Retrieved October 8, 2015.
+ "Tesla Model Y will have "substantial carryover" from Model 3, next-gen platform to come later". Teslarati.com. August 2, 2017.
+ "Tesla Model Y production plans to be unveiled in 3â€“6 months, capital investment starting this year, says Elon Musk". Electrek. February 7, 2018. Retrieved March 10, 2018.
+ "Elon Musk says Tesla Model Y will be a 'manufacturing revolution'". The Verge. May 3, 2018. Retrieved May 3, 2018.
+ "Tesla Model Y launch date revealed by Elon Musk â€“ be there the Ides of March | Trusted Reviews". Trusted Reviews. July 13, 2018. Retrieved July 23, 2018.
+ Musk, Elon (March 3, 2019). "Model Y unveil event on March 14 at LA Design Studio". @elonmusk. Retrieved March 8, 2019.
+ Musk, Elon (March 3, 2019). "Model Y, being an SUV, is about 10% bigger than Model 3, so will cost about 10% more & have slightly less range for same battery". @elonmusk. Retrieved March 8, 2019.
+ Lambert, Fred (March 15, 2019). "Tesla unveils Model Y electric SUV with 300 miles range and 7-seats". Electrek. Retrieved March 27, 2019.
+ "Musk Says Tesla Is Likely to Produce Model Y in Fremont". Bloomberg. June 2, 2019. Retrieved January 3, 2020.
+ "Elon Musk: Tesla is going to build Gigafactory 4 in Berlin area". Electrek. November 12, 2019. Retrieved November 13, 2019.
+ Lorenzo, Lorraine (August 5, 2019). "Tesla Pickup Is Tesla Model B? Did Elon Musk Tweet Its Release?". International Business Times. US. Retrieved August 10, 2019.
+ Musk, Elon [@elonmusk] (November 6, 2019). "Cybertruck unveil on Nov 21 in LA near SpaceX rocket factory]" (Tweet). Retrieved November 7, 2019 â€“ via Twitter.
+ "Elon Musk just announced the new Tesla Cybertruck". November 22, 2019.
+ Musk, Elon (November 26, 2019). "250k". @elonmusk. Retrieved November 27, 2019.
+ Plait, Phil (December 2, 2017). "Elon Musk: On the Roadster to Mars". Syfy. Retrieved December 8, 2017.
+ Valle, Marius (April 21, 2016). "Elon Musk: â€“ Derfor har ikke Tesla satset pÃ¥ hydrogenbiler" [Elon Musk: Why Tesla did not opt for hydrogen cars]. Teknisk Ukeblad. Retrieved April 21, 2016. The plan with Model 3 has been to make a car that half of us can afford. The next car should be one everyone can afford, according to Musk.
+ "Elon Musk: Tesla Plotting Gen 4 Model That Everyone Can Afford". Inside EVs. April 26, 2016. Retrieved April 15, 2018.
+ Randall, Tom (March 30, 2016). "Elon Musk wanted to name his Model 3 Model E so Tesla's brands would spell SEX. This and other secrets about his newest car". Financial Post. US. Retrieved June 5, 2016.
+ Muoio, Danielle (November 8, 2016). "Tesla car secrets you may not have known". Business Insider. US. Retrieved June 7, 2017.
+ Ferris, Robert (July 20, 2016). "Musk Sees Tesla's Future: Trucks, Transit and Solar in a Push to Sustainability". CNBC. Retrieved July 22, 2016.
+ Lambert, Fred (July 29, 2016). "Tesla will leverage the Model X chassis to build its 'Minibus', says Elon Musk". Electrek. Retrieved July 31, 2016.
+ Lambert, Fred (May 4, 2017). "Elon Musk is not so sure about Tesla's electric and autonomous minibus program anymore". Electrek. 9to5. Retrieved May 4, 2017.
+ Beckwith, Jimi (June 6, 2018). "Tesla compact hatchback to launch within five years". Autocar. UK. Retrieved June 12, 2018.
+ Anderson, Brad (June 9, 2018). "Tesla Could Launch A New Compact EV In Less Than Five Years". Carscoops. Retrieved June 12, 2018.
+ Gastelu, Gary (June 6, 2018). "Elon Musk was almost killed on a motorcycle, so Tesla will never build them". Fox News. Retrieved June 14, 2018.
+ "Tesla made an ATV to complement its futuristic Cybertruck". November 22, 2019.
+ Durkee, Alison. "Elon Musk Wants His Own "Robot Taxis" to Replace Uber and Lyft". The Hive. Retrieved April 23, 2019.
+ Berzon, Alexandra; Sweet, Cassandra (May 1, 2015). "Tesla CEO Elon Musk Unveils Line of Home and Industrial Battery Packs". The Wall Street Journal. Retrieved May 2, 2015.
+ Kaufman, Alexander C. (May 1, 2015). "Tesla's New Home Battery Could Be The iPad of Energy Storage". HuffPost. Archived from the original on June 30, 2015. Retrieved May 5, 2015.
+ Castelvecchi, Davide (May 4, 2015). "Will Tesla's Battery for Homes Change the Energy Market?". Scientific American. Retrieved May 5, 2015.
+ Randall, Tom (May 8, 2015). "Tesla's Battery Grabbed $800 Million in Its First Week". US. Bloomberg News. Retrieved October 13, 2016.
+ Shahan, Zachary (February 15, 2015). "Tesla Gigafactory Now on Schedule For 2016, Not 2017". Solar Love. Retrieved June 12, 2015.
+ Geuss, Megan (September 16, 2016). "SoCal utility will buy 80MWh of battery storage from Tesla after methane leak". Ars Technica. Retrieved September 16, 2016.
+ Lambert, Fred (November 22, 2016). "Tesla converted an entire island to solar with new microgrid product developed by SolarCity". Electrek. Retrieved January 15, 2019.
+ Lambert, Fred (July 25, 2018). "Tesla deploys new microgrid projects with Powerpacks in Samoa to help the islands go fossil fuel-free". Electrek. Retrieved January 15, 2019.
+ "Tesla Restores Power for Children's Hospital in Puerto Rico". LATINA. Retrieved October 30, 2017.
+ Lambert, Fred (June 21, 2017). "An incredible drone video of Tesla's solar + Powerpacks project powering Kauai". Electrek. Retrieved January 15, 2019.
+ "Tesla wins giant battery contract in Australia, has 100-day deadline". Reuters. July 7, 2017. Retrieved July 10, 2017.
+ Lambert, Fred (January 14, 2019). "Tesla proposes microgrids with solar and batteries to power Greek islands". Electrek. Retrieved January 15, 2019.
+ "Maxwell Technologies Announces Definitive Merger Agreement with Tesla, Inc". US: Maxwell Technologies. February 4, 2019. Retrieved July 9, 2019 â€“ via Securities and Exchange Commission.
+ "Tesla Plans to Acquire Maxwell Technologies in Deal Valued at $218 Million". Fortune. February 4, 2019. Retrieved February 4, 2019.
+ Lambert, Fred (February 4, 2019). "Tesla acquires ultracapacitor and battery manufacturer for over $200 million".
+ "Tesla Completes Acquisition of Maxwell Technologies". finance.yahoo.com.
+ Lambert, Fred (July 29, 2019). "Tesla launches its Megapack, a new massive 3 MWh energy storage product". Electrek. Retrieved July 29, 2019.
+ "Supercharger | Tesla Motors". www.tesla.com. Retrieved November 12, 2018.
+ "Tesla Motors". Tesla Motors. Retrieved March 3, 2016.
+ "An Update to Our Supercharging Program press release". Tesla, Inc. November 7, 2016. Retrieved November 7, 2016.
+ "Improving Supercharger Availability". tesla.com. December 17, 2016. Retrieved December 18, 2016.
+ "Tesla starts fining people who abuse Supercharger stations". VentureBeat. December 17, 2016. Retrieved December 18, 2016.
+ "Destination Charging". US: Tesla Motors. Retrieved March 16, 2016.
+ Hull, Dana (August 24, 2014). "Tesla rolls out "Destination Charging" program at hotels, restaurants and resorts". Silicon Beat. US. Retrieved March 16, 2016.
+ Lavrinc, Damon (August 28, 2014). "Tesla Rolls Out 'Destination Charging' At Resorts And Restaurants". Jalopnik. US. Retrieved March 16, 2016.
+ "Tesla Introduces Destination Charging in Europe". April 25, 2016.
+ "Destination Charging". tesla.com. Retrieved May 31, 2017.
+ Stewart, James B. (August 23, 2013). "Wondering if Tesla Can Get There From Here". The New York Times. Retrieved August 23, 2013.
+ Dudley, Brier (May 21, 2009). "Business & Technology: Tesla announces showroom in Seattle". The Seattle Times. NW source. Retrieved August 1, 2009.
+ Marshall, Matt (June 2, 2016). "2006: San Carlos start-up Tesla seeks sexier electric car". Mercury News. San Jose, California. Retrieved June 7, 2016.
+ "Tesla Store Los Angeles". Tesla Motors. May 14, 2008.
+ "press releases" (Press release). Tesla Motors. July 22, 2008. Archived from the original on May 28, 2009. Retrieved August 1, 2009.
+ "Tesla moving headquarters and powertrain operations to Palo Alto". San Jose Mercury News. August 17, 2009. Retrieved September 14, 2009.
+ "Press Releases" (Press release). Tesla Motors. June 23, 2009. Archived from the original on June 26, 2009. Retrieved August 1, 2009.
+ Yoney, Domenick (April 27, 2009). "Tesla Motors buying Long Beach Boeing building?". Autoblog Green. Retrieved August 1, 2009.
+ "Opens Tesla Factory â€“ Home of the Model S" (press release). Tesla Motors. October 27, 2010. Retrieved November 20, 2011.
+ Burrows, Peter (October 11, 2016). "Elon Musk's House of Gigacards". Technology Review. Retrieved November 2, 2016.
+ PUI-WING TAM (October 21, 2010). "Idle Fremont Plant Gears Up for Tesla". Wall Street Journal. Archived from the original on March 16, 2015. Retrieved April 3, 2011. Parts of the Fremont facility will be mothballed since Tesla is only using a fraction of the space. "When Nummi said it would close, the land was dead," says Fremont Mayor Bob Wasserman. When Tesla announced its Nummi deal in May, he says, "the land became alive" again
+ "Tesla / EPA settlement for hazardous materials violation | Resource Conservation And Recovery Act | Hazardous Waste". Scribd. Retrieved April 3, 2019.
+ "Tesla acquires Michigan-based auto supplier". Detroit News. May 7, 2015. Retrieved September 14, 2016.
+ "First look inside new Tesla plant in West Michigan". WOODTV.com.
+ "Tesla doubles down on automation, acquires Perbix maker of automated manufacturing equipment". Retrieved November 7, 2017.
+ Avalos, George (June 11, 2015). "Tesla lease in Fremont helps city's economy rebound". San Jose Mercury News. Retrieved June 15, 2015.
+ Lambert, Fred (January 4, 2017). "Tesla Gigafactory: new aerial pictures of the expansion at the battery factory â€“ January 2017". electrek.co. Retrieved February 4, 2017.
+ "Tesla Unveils Model 3". Tesla. March 31, 2016. Retrieved April 1, 2016.
+ Johnston, Adam (January 8, 2016). "Tesla Starts Off 2016 By Producing & Delivering Powerwall". CleanTechnica. Retrieved January 6, 2017.
+ Randall, Tom (January 4, 2017). "Tesla Flips the Switch on the Gigafactory". Bloomberg.com. Archived from the original on January 4, 2017. Retrieved January 4, 2017.
+ Lambert, Fred (January 3, 2018). "Tesla increases hiring effort at Gigafactory 1 to reach goal of 35 GWh of battery production". electrek.co. Retrieved July 13, 2018.
+ Damon, Anjeanette (September 16, 2014). "Inside Nevada's $1.25 billion Tesla tax deal". Reno Gazette Journal. Retrieved November 3, 2016. the company must invest a minimum of $3.5 billion in manufacturing equipment and real property in the state. Five other states charge no sales tax at all and 34 states, including Arizona and Texas, don't charges sales tax on manufacturing equipment.
+ Vega, Nicolas (August 17, 2018). "Ex-employee: Tesla concealed drug trafficking at its factory". New York Post. Retrieved August 25, 2018.
+ "- The Washington Post". Washington Post.
+ "6 things to watch as Panasonic gears up to start production". August 31, 2017.
+ Robinson, David (October 17, 2016). "Tesla, Panasonic to collaborate on photovoltaic cell production at SolarCity in Buffalo". The Buffalo News. Retrieved December 27, 2016.
+ Christmann, Samantha (December 27, 2016). "Panasonic will invest in Tesla's South Buffalo solar plant". The Buffalo News. Retrieved December 27, 2016.
+ Ayre, James (September 7, 2017). "Solar Roof Tile Production At Tesla's Buffalo "Gigafactory" Now Up & Running". Clean Technica.
+ Eckhouse, Brian (January 9, 2018). "Tesla's New York Gigafactory Kicks Off Solar Roof Production". Bloomberg. US. Retrieved February 3, 2018.
+ Solar Roof Conference Call Webcast, Tesla, 25 October 2019.
+ "Tesla Motors Find Us". Tesla Motors. March 20, 2014. Retrieved May 3, 2017.
+ Leeds, Samson (June 28, 2009). "Tesla opens Flagship Euro Store in London". Top Car Zone. Sablog zone. Retrieved October 25, 2009.
+ "Green Autoblog". Green.autoblog.com. September 10, 2009. Retrieved April 12, 2015.
+ "Contact". Tesla Motors. Retrieved February 6, 2014.
+ Kane, Mark. "Tesla's New Tilburg Factory Now Open". InsideEVs. Archived from the original on May 17, 2016. Retrieved January 5, 2017. re-assembled after leaving Tesla's Fremont factory in California in order to meet domestic manufacturing/regulatory standards and to avoid extra EU taxation/import tariff rules. The â€˜final assemblyâ€˜ process reportedly takes about 2â€“3 hours per vehicle, but saves about ~10% worth of fees added to the EVs' pricing.
+ "Photo: Tilburg assembly line". insideevs.com. Retrieved April 21, 2017.
+ "TESLA huurder NewLogic II Tilburg â€“ Outside photos of Tesla Tilburg". October 18, 2014. Retrieved January 5, 2017.
+ Klayman, Ben (June 12, 2014). "Tesla CEO says electric carmaker plans European plant: report". Reuters. Retrieved November 6, 2014.
+ Lambert, Fred (November 8, 2016). "Tesla plans to choose location for 'Gigafactory 2' in Europe next year, will produce both batteries and cars". electrek.co. Retrieved December 11, 2016.
+ Lambert, Fred (January 8, 2017). "The race to get 'Tesla Gigafactory 2' heats up, French Minister visits Fremont factory". Electrek. Retrieved January 8, 2017.
+ Tredway, Gareth (November 8, 2016). "Tesla buys automated manufacturing specialist Grohmann". Automotive Logistics. Archived from the original on December 20, 2016. Retrieved December 20, 2016.
+ Linden, Fritz-Peter (April 6, 2017). "DemnÃ¤chst nur noch ein einziger Kunde fÃ¼r Tesla Grohmann in PrÃ¼m" [Next, only a single customer for Tesla Grohmann in PrÃ¼m] (in German). Volksfreund.de. Retrieved April 8, 2017. We need all capacities in PrÃ¼m to drive the production of the Model 3 in large numbers. "a fast and smooth transfer of current customers to other suppliers" is being carried out.
+ Kokkinidis, Tasos (February 17, 2018). "Meet the Greeks that Lured Elon Musk's Tesla to Athens". Greek Reporter. Retrieved April 15, 2018.
+ Smith, Helena (June 2, 2018). "Elon Musk to open Tesla R&D plant in Greece". The Guardian. UK. Retrieved April 15, 2018.
+ Boston, William (July 30, 2018). "Tesla Explores Building Major Factory in Europe". The Wall Street Journal. Retrieved July 30, 2018.
+ Remondini, Chiara; Rauwald, Christoph (November 12, 2019). "Tesla Plans to Build Next Factory in Berlin, Elon Musk Says". Bloomberg. Retrieved November 12, 2019.
+ "Tesla Motors Opens Showroom and Service Center in Netherlands (TSLA)". The Stock Market Watch. September 28, 2011. Archived from the original on January 16, 2016. Retrieved June 26, 2013.
+ Shu, Catherine (December 16, 2013). "Tesla Launches Chinese Site As It Prepares To Sell Its Electric Cars in China". TechCrunch. Aol Inc. Retrieved December 16, 2013.
+ Chester Dawson & Yoshio Takahashi (November 15, 2010). "Tesla Plans Japan Push". The Wall Street Journal. Archived from the original on April 7, 2016. Retrieved June 26, 2013.
+ Lesage, Joe (March 17, 2017). "Tesla Opening Two Showrooms In South Korea This Week". Hybrid Cars. US. Retrieved March 29, 2018.
+ Ramirez, Elaine. "Tesla Just Opened Its First South Korea Stores And There's Already A 6-Month Waiting List". Forbes. Retrieved January 29, 2019.
+ "Taiwan headquarters of Tesla inaugurated in Taipei". Taiwan News. Retrieved July 9, 2019.
+ "Tesla to build factory in Shanghai". BBC News. July 11, 2018. Retrieved August 6, 2018.
+ "New China TV News GroundBreaking Ceremony". January 7, 2019.
+ Langton, James (July 12, 2017). "Middle East's first Tesla showroom launches in Dubai". The National.
+ "Tesla trims losses as it prepares for UAE expansion". The National. February 23, 2017.
+ PereÃ±a, Keith (February 18, 2017). "7 things you should know about Tesla cars in UAEpublisher=Khaleej Times".
+ Terry Martin (March 18, 2010). "Tesla set to launch Roadster EV in Australia this year". Go Auto. Archived from the original on March 4, 2016. Retrieved June 26, 2013.
+ "Tesla Roadster Approved for Australian Roads [press release]". Business Wire. January 11, 2011. Archived from the original on March 4, 2016. Retrieved June 26, 2013.
+ Maric, Paul (April 30, 2015). "Tesla to open new showroom and service centre in Richmond". Car Advice. Retrieved July 6, 2015.
+ "Tesla introduces self-schedule servicing in Australia and NZ". The Driven. January 18, 2019.
+ "Tesla Motors to Provide Batteries for Freightliner Custom Chassis Electric Van". Motor Trend. WOT. Retrieved November 20, 2011.
+ Arrington, Michael (May 19, 2009). "Tesla Worth More Than Half A Billion Dollars After Daimler Investment". Techcrunch.com. Retrieved August 1, 2009.
+ Godske, BjÃ¸rn (May 21, 2010). "Toyota buys $50mio stake in Tesla". Ing.dk. Archived from the original on May 23, 2010. Retrieved May 21, 2010.
+ "Press Releases" (Press release). Tesla Motors. May 19, 2009. Archived from the original on May 22, 2009. Retrieved August 1, 2009.
+ Atkins, Thomas (July 13, 2009). "UAE'S Aabar buys 40 pct of Daimler's Tesla stake". Reuters. Retrieved April 12, 2015.
+ "Aabar Daimler Press Release, 2009" (PDF). aabar.com.[dead link]
+ Mike Ramsey. "Daimler sells Tesla stake for $780 Million". MarketWatch. Retrieved April 12, 2015.
+ Jeffrey N. Ross (October 4, 2012). "Mercedes B-Class headed to America... but only as an EV?". Autoblog.com. Retrieved November 5, 2014.
+ "Mercedes-Benz Electric Car by Tesla Test Drive â€“Video Tesla Mercedes-Benz A Class". The Daily Green. September 3, 2010. Retrieved October 3, 2010.
+ "Mercedes-Benz Introduces the Battery-Powered A-Class E-CELL; Production Run of 500". Green Car Congress. September 15, 2010. Retrieved May 4, 2011.
+ Masson, Laurent J (March 29, 2011). "Quick Drive: Electric Mercedes A-Class E-Cell". Plugin Cars. Retrieved May 4, 2011.
+ Halvorson, Bengt (August 7, 2017). "Bye-Bye Baby B: Mercedes Spikes Its Electric Subcompact, Eyes More Mainstream EVs". Car and Driver. Retrieved February 9, 2019.
+ "Mercedes-Benz B Class Electric Coming To U.S.: Report (Compliance Car Watch)". Green Car Reports. Retrieved April 19, 2016.
+ Nikki Gordon-Bloomfield (September 16, 2015). "Report: Next-Generation Smart ForTwo Electric Drive Will Feature Renault-Made Motors". Transport Evolved. Retrieved August 29, 2017.
+ "Press Releases" (Press release). Tesla Motors. Archived from the original on June 11, 2010. Retrieved June 28, 2010.
+ Tierney, Christine (May 20, 2010). "Toyota invests in Tesla to help reopen Calif. plant". The Detroit News. Retrieved May 22, 2010.
+ Tajitsu, Naomi (June 5, 2017). "Toyota dumps all its shares in Tesla as their tie-up ends". Business Insider. Business Insider. Retrieved June 6, 2017.
+ Abuelsamid, Sam (July 16, 2010). "Breaking: Tesla and Toyota to develop RAV4 EV, hope to launch in 2012 â€” Autoblog Green". Green.autoblog.com. Retrieved July 19, 2010.
+ "Toyota unveils RAV4 EV demonstration vehicle; targeting fully-engineered version in 2012 for market". Green Car Congress. November 17, 2010. Retrieved November 18, 2010.
+ Tellem, Tori (November 17, 2010). "2012 Toyota RAV4-EV: Take Two". The New York Times. Retrieved November 18, 2010.
+ "Toyota RAV4 EV key for meeting California ZEV requirements; Tesla powertrain uses Model S components". Green Car Congress. August 10, 2012. Retrieved August 4, 2012.
+ Garrett, Jerry (August 3, 2012). "Toyota and Tesla Trot Out the RAV4 EV". The New York Times. Retrieved August 4, 2012.
+ "Toyota Wraps Up Production of RAV4 EV". PluginCars.com. September 29, 2014. Retrieved August 28, 2018.
+ "Don't look for a Toyota RAV4 EV successor anytime soon". Roadshow. April 3, 2018. Retrieved August 28, 2018.
+ Gupta, Poornima (January 7, 2010). "Tesla, Panasonic partner on electric car batteries". Reuters. Retrieved April 12, 2015.
+ "Tesla & Panasonic Make It Official, Buddy Up for Batteries: Cleantech News". Gigaom.com. January 7, 2010. Retrieved October 3, 2010.
+ "Panasonic invests $30m in Tesla". New Statesman. Retrieved November 16, 2010.
+ "Panasonic, Tesla agree to partnership for US car battery plant". Nikkei Inc. July 29, 2014. Retrieved August 1, 2014.
+ "Tesla and Panasonic Will Begin Manufacturing Solar Cells and Modules in Buffalo, NY". tesla.com. Retrieved December 28, 2016.
+ Kaufman, Alexander C. (August 24, 2015). "Tesla Wants To Take Stress Out of Vacationing with an Electric Car". The Huffington Post. Retrieved August 26, 2015.
+ "Tesla Partners With Liberty Mutual for Customized Insurance Plan". Bloomberg.com. October 13, 2017. Retrieved March 9, 2018.
+ "Tesla 10-K Files with SEC". sec.gov. February 19, 2019. Retrieved March 3, 2019.  This article incorporates text from this source, which is in the public domain.
+ "Federal Judge Dismisses Tesla Shareholders' Lawsuit on Model 3 Productionâ€”Again". March 25, 2019. Retrieved December 17, 2019.
+ Fehrenbacher, Katie (April 11, 2016). "Tesla Recalls 2,700 Model X Cars for Seat Problem". Fortune. Retrieved April 12, 2016.
+ Lee, Timothy B. (June 10, 2016). "Tesla's real problem isn't that its cars are expensive. It's that they're unreliable". Vox. Retrieved April 21, 2017.
+ Lee, Timothy B. (April 20, 2017). "Tesla is recalling most of the cars it sold in 2016". Vox. Retrieved April 21, 2017.
+ Wang, Christine (March 29, 2018). "Tesla voluntarily recalls 123,000 Model S cars over faulty steering component". CNBC. Retrieved March 31, 2018.
+ Jensen, Christopher (October 2, 2013). "Tesla Says Car Fire Started in Battery". The New York Times. Retrieved October 7, 2013.
+ Trop, Jaclyn (November 7, 2013). "Another Fire Raises Questions for Tesla". The New York Times. Retrieved November 10, 2013.
+ Voelcker, John (November 19, 2013). "Tesla Fires: NHTSA Will Probe, Warranty To Cover Fire Damage, Ride-Height Tweak". Green Car Reports. Retrieved November 24, 2013.
+ Lendino, Jamie (January 4, 2016). "Tesla Model S catches fire at supercharger station in Norway". ExtremeTech. Retrieved June 28, 2017.
+ Ivory, Danielle (March 28, 2014). "Federal Safety Agency Ends Its Investigation of Tesla Fires". The New York Times. Retrieved March 31, 2014.
+ George, Patrick (March 28, 2014). "The Tesla Model S: Now With Road Debris-Crushing Titanium!". Jalopnik. Retrieved March 31, 2014.
+ Vlasic, Bill; Boudette, Neal E. (June 30, 2016). "Self-Driving Tesla Was Involved in Fatal Crash, U.S. Says". The New York Times. Retrieved July 1, 2016.
+ "Preliminary Report, Highway HWY16FH018". NTSB. July 26, 2016. Retrieved August 31, 2016.
+ Steware, Jack (January 20, 2017). "After Probing Tesla's Deadly Crash, Feds Say Yay to Self-Driving". Wired. US. Retrieved April 17, 2017.
+ "Their lives ended 16 days before high school graduation. Speed might've been a factor". miamiherald. Retrieved February 2, 2019.
+ Trischitta, Linda; Lyons, David; Alanez, Tonya; Roustan, Wayne K. (May 10, 2018). "Federal agency will investigate Tesla crash that killed two young students". Sun-Sentinel. US. Retrieved May 25, 2018.
+ Solomon, Lois K. (May 13, 2018). "Tesla in fatal crash was altered to limit its top speed, victim's aunt says". Sun-Sentinel. US. Retrieved May 25, 2018.
+ CNBC (January 9, 2019). "Tesla is sued for a passenger death due to a defective battery". cnbc.com. Retrieved February 2, 2019.
+ Glon, Ronan (June 4, 2017). "AAA raising insurance rates for Tesla owners". Left Lane News. Retrieved June 7, 2017.
+ Burke, Katie (June 4, 2017). "Tesla owners should pay more for insurance, AAA says". Automotive News. Retrieved June 7, 2017.
+ Felton, Ryan (June 5, 2017). "AAA Raises Insurance Rates On Tesla Vehicles Because Repairs Are So Costly". Jalopnik. Retrieved June 7, 2017.
+ Lavrinc, Damon (December 17, 2014). "What Will Tesla And Elon Musk Over Promise Next?". Jalopnik. Retrieved December 18, 2014.
+ Holley, Peter (October 2, 2017). "'We understand what needs to be fixed,' Tesla says after missing Model 3 production goals". Retrieved November 5, 2017 â€“ via Washington Post.
+ Holley, Peter (November 3, 2017). "Analysis â€“ Sleepless nights, broken robots and mounting pressure: Musk offers rare glimpse inside Tesla's 'production hell'". WashingtonPost.com. Retrieved November 6, 2017.
+ "Tesla must stop overpromising, could need more finance: analysts". November 2, 2017. Retrieved November 6, 2017 â€“ via Reuters.
+ "Tesla is making its own car carriers". Reuters. Retrieved September 25, 2018.
+ "Tesla acquires trucking companies to squeeze in more deliveries before Dec. 31". TechCrunch. Retrieved November 16, 2018.
+ Masunaga, Samantha (August 6, 2015). "Researchers hack a Tesla Model S, bring car to stop". Los Angeles Times. Retrieved August 10, 2015.
+ Mahaffey, Kevin (August 6, 2015). "The new assembly line: 3 best practices for building (secure) connected cars". Lookout. Retrieved August 13, 2015.
+ O'Connor, Fred (August 7, 2015). "Tesla patches Model S after researchers hack car's software". Wired. Retrieved August 11, 2015.
+ "Car Hacking Research: Remote Attack Tesla Motors". Retrieved September 21, 2016.
+ "Product Security | Tesla". tesla.com. Archived from the original on February 25, 2019.
+ Lambert, Fred (September 20, 2016). "First Tesla Model S remotely controlled by hackers, Tesla already pushed a fix". Electrek. Retrieved September 21, 2016.
+ "This Tesla Investor's Tech Team Just Hacked the Model X â€“ Again". Fortune. July 28, 2017. Retrieved October 15, 2017.
+ Hackett, Robert (February 20, 2018). "Tesla Hackers Hijacked Amazon Cloud Account to Mine Cryptocurrency". fortune.com. Retrieved February 21, 2018.
+ Lambert, Fred (February 20, 2018). "Tesla's cloud was 'hijacked' by hackers to mine cryptocurrencies". electrek.co. Retrieved February 21, 2018.
+ Villaruel, John Carlo A. (March 24, 2019). "Hackers Who Cracked Tesla Model 3 Security In Competition Win Electric Car And $375K". Tech Times.
+ "Service plans". Tesla Motors. Retrieved September 12, 2016.
+ Dent, Steve (March 22, 2019). "Tesla drops annual servicing for 'as needed' repair model". Engadget. US. Retrieved August 18, 2019.
+ "Consumer Reports Car Reliability Survey 2016". Consumer Reports. October 24, 2016. Retrieved October 24, 2016. When a car model is brand new or "completely redesigned," that can mean new parts, new systemsâ€”and new problems.
+ Dow, Jameson (October 26, 2016). "Tesla says it reduced Model X issues by 92% amid criticism from Consumer Reports". Electrek. Retrieved October 26, 2016.
+ "Tesla Motors Service Delays Have Little Or No Effect On The Brand". The Country Caller. November 17, 2016. Archived from the original on November 22, 2016. Retrieved November 21, 2016. Despite such poor servicing of vehicles, Blue Book's Karl Brauer believes that there has not been a big effect on the Tesla brand as early owners are not completely dependent on their Model S sedans and Model X SUVs. Dunne Automotive President, Michael Dunne, believes that the owners are well aware of such issues before buying a Tesla car as they know "they are part of this experience of the first breakthrough electric vehicles."
+ Tatarevic, Bozi (October 15, 2015). "Tesla Doesn't Want You to Work on Its Cars". The Truth About Cars. Retrieved March 10, 2016.
+ Lambert, Fred (June 6, 2018). "Tesla to open its own body shops by the end of the month, could offer same day repair, says Elon Musk". Electrek. US. Retrieved June 14, 2018.
+ "Inside Tesla's Lobbying Push to Expand NY Sales". New York Law Journal. Retrieved June 13, 2017.
+ "NY State Senate Bill S6600A". NY State Senate. February 1, 2018. Retrieved February 9, 2019.
+ "NY State Assembly Bill A8248A". NY State Senate. January 29, 2018. Retrieved February 9, 2019.
+ "Board of Directors". Tesla, Inc. Retrieved June 30, 2018.
+ CNBC (April 12, 2017). "Tesla investors urge board changes to prevent dysfunction". CNBC. Retrieved April 14, 2017.
+ "Elon Musk spars with investors who want independent Tesla board". USA Today. Retrieved April 14, 2017.
+ "Musk Promises 2 New Directors for Tesla Amid Shareholder Criticism". Fox Business. April 12, 2017. Retrieved April 14, 2017.
+ "Tesla acquires Riviera Tool LLC - 2015-05-08". Crunchbase. Retrieved February 9, 2019.
+ Carr, Austin (June 7, 2017). "The Real Story Behind Elon Musk's $2.6 Billion Acquisition Of SolarCity And What It Means For Tesla's Futureâ€“Not To Mention The Planet's". Fast Company. Retrieved February 9, 2019.
+ Lambert, Fred (May 10, 2017). "Tesla breaks down its $135 million acquisition of Grohmann Engineering in new filing". Electrek. Retrieved February 9, 2019.
+ CNBC (November 8, 2017). "Tesla buys Perbix for factory automation". cnbc.com. Retrieved February 9, 2019.
+ Fred Lambert (May 16, 2019). "Tesla completes acquisition of Maxwell, officially takes over the battery technology". Retrieved September 23, 2019.
+ Rathi, Akshat; Rathi, Akshat. "Tesla bought a battery company, and it's more about cash flow than batteries". Quartz. Retrieved February 9, 2019.
+ "Tesla is buying computer vision start-up DeepScale in a quest to create truly driverless cars". CNBC. Retrieved January 3, 2020.
+ Jarratt, Emma (October 5, 2019). "Tesla acquires Canadian battery specialist, Hibar Systems". Electric Autonomy Canada. Electric Autonomy. Retrieved October 6, 2019.
+ "Next Gen: What's Behind Tesla's Latest STEM Education Give?". Inside Philanthropy.
+ "Tesla's Philanthropic Side". asaproofing.com.
+ "Tesla Turns Power Back On At Children's Hospital In Puerto Rico". NPR.org.
+Further reading
+Vance, Ashlee (May 19, 2015). Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future. HarperCollins. ISBN 978-0-06-230126-0.
+External links
+	Wikimedia Commons has media related to Tesla, Inc..
+Official website
+Tesla, Inc. on Twitter Edit this at Wikidata
+Musk, Elon (July 20, 2016). "Master Plan, Part Deux". Tesla, Inc.
+Business data for Tesla, Inc.: Google FinanceYahoo! FinanceBloombergSEC filings
+vte
+Tesla, Inc.
+vte
+Tesla, car timeline, 2008â€“present
+vte
+Companies of the NASDAQ-100 index
+vte
+Automotive industry in the United States
+vte
+Trucking industry in the United States
+vte
+ Automotive industry in Australia
+vte
+Elon Musk
+vte
+Daimler AG
+vte
+Silicon Valley
+vte
+PayPal Mafia
+Authority control Edit this at Wikidata	
+GND: 111610105XISNI: 0000 0004 4907 9987LCCN: n2014027514VIAF: 128492563WorldCat Identities (via VIAF): 128492563
+Coordinates: 37.3947Â°N 122.1503Â°W
+
+Categories: Companies in the NASDAQ-100 IndexCompanies listed on NASDAQTesla, Inc.Car manufacturers of the United StatesBattery electric vehicle manufacturersElectric vehicle manufacturers of the United StatesLuxury motor vehicle manufacturersMotor vehicle manufacturers based in CaliforniaSports car manufacturersCompanies based in Palo Alto, CaliforniaManufacturing companies based in California2003 establishments in CaliforniaVehicle manufacturing companies established in 2003Manufacturing companies based in the San Francisco Bay Area2010 initial public offeringsCar brandsAmerican companies established in 2003
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+Search Wikipedia
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+In other projects
+Wikimedia Commons
+Wikinews
+Print/export
+Download as PDF
+Printable version
+
+Languages
+Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©
+Deutsch
+EspaÃ±ol
+FranÃ§ais
+í•œêµ­ì–´
+Italiano
+Ð ÑƒÑÑÐºÐ¸Ð¹
+Tiáº¿ng Viá»‡t
+ä¸­æ–‡
+63 more
+Edit links
+This page was last edited on 14 January 2020, at 05:11 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. WikipediaÂ® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersStatisticsCookie statementMobile viewWikimedia FoundationPowered by MediaWiki
