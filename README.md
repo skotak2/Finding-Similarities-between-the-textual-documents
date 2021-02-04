@@ -1,5 +1,5 @@
-# Finding-Similarities-between-the-textual-content-of-the-documents
-Cleansing of data for text mining and finding similarities between documents using Jacard and cosine similarities. And computed TF-IDF coefficeints. 
+# PySpark Operations on Customer Reviews of Amazon
+This exercise will showcase how to perform operations using Spark and find the most repeated words on the busiest days
 
 ### TABLE OF CONTENTS
 * [Objective](#objective)
@@ -10,37 +10,78 @@ Cleansing of data for text mining and finding similarities between documents usi
 * [Results](#results)
 
 ## OBJECTIVE 
-Finding the closeness between documents using basics of NLP. Implementing basics of text similarity on multiple files and presenting the analysis.
+* Showcase implementation of Spark context and Spark SQL context on Amazon Tweets data with about 400k tweets
+* Find the days with high influx of tweets dealing with - Tweet_id(id_str), Tweet_created_time, Retweet count and Favourite_count
+* Analyze the subset of tweets on the busiest day and find the most repeated words 
 
 ## TECHNOLOGIES
 Project is created with:
 
-* Python - pandas, Tokenizer
+* PySpark
 
 ## ALGORITHMS
-* Jacard Similarity 
-* Cosine Similarity
+
+* MapReduce in Spark
+
+## Data
+
+The used dataset is a collection of tweets where Amazon was tagged by the users on Twitter to review its service. For each and every tweet/record in dataset, the sentiment of the tweet is also recorded and that is the binary target variable for the dataset. As the dataset consists of 400k records, we cannot build and run machine learning models directly and we would need to have a Big Data service to distribute and run the program. So, PySpark was used as it is easy to integrate it with Python for analysis.
 
 ## IMPLEMENTATION
 
-**Jaccard Similarity**: The Jaccard similarity index (sometimes called the Jaccard similarity coefficient) compares members for two sets to see which members are shared and which are distinct. It’s a measure of similarity for the two sets of data, with a range from 0% to 100%. The higher the percentage, the more similar the two populations.
+**1. Import csv file:**
+```python
+data = spark.read.format("csv").option("header","true").load("filepath/filename.csv")
+```
+**2. Selecting the required columns from a data frame:**
+```python
+data.select("column_name1",'colname2','colname3','colname4')
+```
+**3. Printing data types of columns:**
+```python
+types = [f.dataType for f in data1.schema.fields]
+```
 
-How to calculate: The formula to find the Index is:
+**4. Printing distinct values of a column:**
+```python
+data.select("column_name").distinct().show()
+```
+**5. Parsing a column to create additional columns:**
+```python
+from pyspark.sql.functions import split
+tweet_created_at is in the format: "Tue Nov 01 02:39:55 +0000 2016"
+a = split(dat_filtered["tweet_created_at"], ' ')
+dat_filtered = dat_filtered.withColumn('Month', a.getItem(1))
+dat_filtered = dat_filtered1.withColumn('Date', a.getItem(2))
+dat_filtered = dat_filtered1.withColumn('Year', a.getItem(5))
+```
+**6. Concatenating multiple columns to form a new one**
+```python
+dat_filtered.select(concat(col("Month"), lit(" "), col("Date"),lit(" "), col("Year")).alias("Date"))
+```
+**7. Importing SQL funtions col,lit**
+```python
+import pyspark.sql.functions as sq dat_filtered.withColumn("tweet_created_at",sq.concat(col("Month"), sq.lit(" "), sq.col("Date"),sq.lit(" "), sq.col("Year")))
+```
+**8. Aggregations on dataframe**
+Command counts the number of tweets grouped by the date
+```python
+df.groupby(df.date).agg(sq.count('id_str').alias("count_of_tweets"))
+```
 
-Jaccard Index = (the number in both sets) / (the number in either set) * 100
 
-The same formula in notation is: J(X,Y) = |X∩Y| / |X∪Y| In Steps, that’s:
-
-1.Count the number of members which are shared between both sets. 2.Count the total number of members in both sets (shared and un-shared). 3.Divide the number of shared members (1) by the total number of members (2). 4.Multiply the number you found in (3) by 100.
-
-**Cosine Similarity**: Cosine similarity measures the similarity between two vectors of an inner product space. It is measured by the cosine of the angle between two vectors and determines whether two vectors are pointing in roughly the same direction. Any document can be represented by thousands of attributes, each recording the frequency of a particular word (such as a keyword) or phrase in the document. Thus, each document is an object represented by what is called a term-frequency vector.
-
-
+**9. Initializing spark context and sql context to perform SQL queries**
+```python
+conf = pyspark.SparkConf()
+sc = pyspark.SparkContext.getOrCreate(conf=conf)
+from pyspark.sql import SQLContext
+sqlcontext = SQLContext(sc)
+counts.registerTempTable("tmpcounts")
+counts_ordered = sqlcontext.sql("SELECT * FROM tmpcounts order by count_of_tweets desc limit 5")
+```
 ## RESULTS
 
-I used python function to calculate the text similarity rather than using the traditional way of calculating by using the formula.
+The above illustrated operations on 400k records was done in 3 minutes of times against 15+ minutes of time with the python environment.
 
-# Sources
-* https://www.statisticshowto.datasciencecentral.com/jaccard-index
-* https://www.sciencedirect.com/topics/computer-science/cosine-similarity
+
 
